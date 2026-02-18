@@ -1,0 +1,22 @@
+{
+    "blacklist": [
+        "change", "challenge", "chance", "channel", "charge", "chart", "chat", "cheap",
+        "check", "cheese", "chemical", "chest", "chicken", "chief", "child", "china",
+        "chinese", "chocolate", "choice", "choose", "christmas", "church", "cinema",
+        "admin", "root", "user", "test", "guest", "default", "password", "username",
+        "login", "logout", "system", "server", "client", "database", "email", "mail",
+        "phone", "mobile", "contact", "info", "information", "address", "name", "id",
+        "account", "profile", "setting", "config", "configuration", "api", "interface",
+        "example", "gmail", "yahoo", "hotmail", "qq", "163", "126", "sina", "outlook",
+        "icloud", "protonmail", "foxmail", "aliyun", "sohu", "yeah", "live", "msn",
+        "this", "that", "with", "from", "they", "have", "were", "said", "time", "than",
+        "them", "into", "just", "like", "over", "also", "back", "only", "know", "take",
+        "year", "good", "some", "come", "make", "well", "very", "when", "much", "would",
+        "there", "their", "what", "about", "which", "after", "first", "never", "these",
+        "think", "where", "being", "every", "great", "might", "shall", "while", "those",
+        "before", "should", "himself", "themselves", "both", "any", "each", "few", "more",
+        "most", "other", "some", "such", "what", "which", "who", "whom", "whose", "why",
+        "how", "all", "any", "both", "each", "few", "more", "most", "other", "some",
+        "such", "no", "nor", "not", "only", "own", "same", "so", "than", "too", "very"
+    ]
+}

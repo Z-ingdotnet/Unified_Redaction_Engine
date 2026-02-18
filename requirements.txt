@@ -1,0 +1,5 @@
+presidio-analyzer
+presidio-anonymizer
+python-dateutil
+hanlp
+transformers==4.30.2
