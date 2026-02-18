@@ -1,0 +1,4583 @@
+[
+  {
+    "chinese": "赵",
+    "pinyin": "ZHAO",
+    "taiwan": "CHAO",
+    "hk": "CHIU",
+    "macau": "CHIO",
+    "singapore": "TEO/TIO",
+    "wade_giles": "CHIU"
+  },
+  {
+    "chinese": "钱",
+    "pinyin": "QIAN",
+    "taiwan": "CHIEN",
+    "hk": "CHIN",
+    "macau": "CHIN",
+    "singapore": "ZEE/CHEE",
+    "wade_giles": "CHIN"
+  },
+  {
+    "chinese": "孙",
+    "pinyin": "SUN",
+    "taiwan": "SUN",
+    "hk": "SUEN",
+    "macau": "SUN",
+    "singapore": "SOON/SNG",
+    "wade_giles": "SUEN/SHUEN"
+  },
+  {
+    "chinese": "李",
+    "pinyin": "LI",
+    "taiwan": "LEE/LI",
+    "hk": "LEE/LI",
+    "macau": "LEI",
+    "singapore": "LEE",
+    "wade_giles": "LI/LEE"
+  },
+  {
+    "chinese": "周",
+    "pinyin": "ZHOU",
+    "taiwan": "CHOU",
+    "hk": "CHOW/CHAU",
+    "macau": "CHAO",
+    "singapore": "CHEW",
+    "wade_giles": "CHAU/CHOW"
+  },
+  {
+    "chinese": "吴",
+    "pinyin": "WU",
+    "taiwan": "WU",
+    "hk": "NG",
+    "macau": "NG",
+    "singapore": "GOH/NGO",
+    "wade_giles": "NG"
+  },
+  {
+    "chinese": "郑",
+    "pinyin": "ZHENG",
+    "taiwan": "CHENG",
+    "hk": "CHENG",
+    "macau": "CHEANG",
+    "singapore": "TAY",
+    "wade_giles": "CHENG/CHANG"
+  },
+  {
+    "chinese": "王",
+    "pinyin": "WANG",
+    "taiwan": "WANG",
+    "hk": "WONG",
+    "macau": "VONG/WONG",
+    "singapore": "ONG/HENG/WONG/WANG",
+    "wade_giles": "WANG/WONG"
+  },
+  {
+    "chinese": "冯",
+    "pinyin": "FENG",
+    "taiwan": "FENG",
+    "hk": "FUNG",
+    "macau": "FONG",
+    "singapore": "PANG",
+    "wade_giles": "FUNG"
+  },
+  {
+    "chinese": "陈",
+    "pinyin": "CHEN",
+    "taiwan": "CHEN",
+    "hk": "CHAN",
+    "macau": "CHAN",
+    "singapore": "TAN/CHAN/TING",
+    "wade_giles": "CHAN/TAN/CHEN"
+  },
+  {
+    "chinese": "褚",
+    "pinyin": "CHU",
+    "taiwan": "CHU",
+    "hk": "CHU",
+    "macau": "CHU",
+    "singapore": "THI/SOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "卫",
+    "pinyin": "WEI",
+    "taiwan": "WEI",
+    "hk": "WAI",
+    "macau": "WAI",
+    "singapore": "WEE",
+    "wade_giles": "WAI"
+  },
+  {
+    "chinese": "蒋",
+    "pinyin": "JIANG",
+    "taiwan": "CHIANG",
+    "hk": "CHEUNG",
+    "macau": "CHEONG",
+    "singapore": "CHIO",
+    "wade_giles": "CHEUNG"
+  },
+  {
+    "chinese": "沈",
+    "pinyin": "SHEN",
+    "taiwan": "SHEN",
+    "hk": "SHUM/SUM",
+    "macau": "SAM",
+    "singapore": "SIM",
+    "wade_giles": "SHUM/SUM"
+  },
+  {
+    "chinese": "韩",
+    "pinyin": "HAN",
+    "taiwan": "HAN",
+    "hk": "HON",
+    "macau": "HON",
+    "singapore": "HANG",
+    "wade_giles": "HON"
+  },
+  {
+    "chinese": "杨",
+    "pinyin": "YANG",
+    "taiwan": "YANG",
+    "hk": "YEUNG",
+    "macau": "IEONG",
+    "singapore": "YEO/YEOH/YONG",
+    "wade_giles": "YEUNG/YANG/YOUNG"
+  },
+  {
+    "chinese": "朱",
+    "pinyin": "ZHU",
+    "taiwan": "CHU",
+    "hk": "CHU",
+    "macau": "CHU",
+    "singapore": "CHOO",
+    "wade_giles": "CHU"
+  },
+  {
+    "chinese": "秦",
+    "pinyin": "QIN",
+    "taiwan": "CHIN",
+    "hk": "CHUN",
+    "macau": "CHUN",
+    "singapore": "CHIN/CHING",
+    "wade_giles": "CHUN"
+  },
+  {
+    "chinese": "尤",
+    "pinyin": "YOU",
+    "taiwan": "YU",
+    "hk": "YAU",
+    "macau": "IAO",
+    "singapore": "YEW",
+    "wade_giles": "YAU"
+  },
+  {
+    "chinese": "许",
+    "pinyin": "XU",
+    "taiwan": "HSU",
+    "hk": "HUI",
+    "macau": "HOI/HUI",
+    "singapore": "HEE/KOH/KHOH",
+    "wade_giles": "HSUI/HUI/HSU"
+  },
+  {
+    "chinese": "何",
+    "pinyin": "HE",
+    "taiwan": "HO",
+    "hk": "HO",
+    "macau": "HO",
+    "singapore": "HOR/HOH",
+    "wade_giles": "HO"
+  },
+  {
+    "chinese": "吕",
+    "pinyin": "LU/LYU/LV",
+    "taiwan": "LU",
+    "hk": "LUI",
+    "macau": "LOI",
+    "singapore": "LI",
+    "wade_giles": "LUI"
+  },
+  {
+    "chinese": "施",
+    "pinyin": "SHI",
+    "taiwan": "SHIH",
+    "hk": "SZE",
+    "macau": "SI",
+    "singapore": "SI/SEE",
+    "wade_giles": "SEE/SZE/SHIH/SI"
+  },
+  {
+    "chinese": "张",
+    "pinyin": "ZHANG",
+    "taiwan": "CHANG",
+    "hk": "CHEUNG",
+    "macau": "CHEONG",
+    "singapore": "TEO/TEOH/CHEONG",
+    "wade_giles": "CHEONG/ZHANG/CHIANG/CHEUNG"
+  },
+  {
+    "chinese": "孔",
+    "pinyin": "KONG",
+    "taiwan": "KUNG",
+    "hk": "HUNG",
+    "macau": "HONG",
+    "singapore": "KHONG",
+    "wade_giles": "HUNG"
+  },
+  {
+    "chinese": "曹",
+    "pinyin": "CAO",
+    "taiwan": "TSAO",
+    "hk": "CHO/TSO",
+    "macau": "CHOU",
+    "singapore": "CHOW/CHAU",
+    "wade_giles": "CHO/TSO"
+  },
+  {
+    "chinese": "严",
+    "pinyin": "YAN",
+    "taiwan": "YEN",
+    "hk": "YIM",
+    "macau": "IM",
+    "singapore": "GIAM/NGIAM",
+    "wade_giles": "YIM"
+  },
+  {
+    "chinese": "华",
+    "pinyin": "HUA",
+    "taiwan": "HUA",
+    "hk": "WA/WAH",
+    "macau": "VA",
+    "singapore": "HOA/HUA",
+    "wade_giles": "WAH"
+  },
+  {
+    "chinese": "金",
+    "pinyin": "JIN",
+    "taiwan": "CHIN",
+    "hk": "KAM",
+    "macau": "KAM",
+    "singapore": "KIM",
+    "wade_giles": "KAM"
+  },
+  {
+    "chinese": "魏",
+    "pinyin": "WEI",
+    "taiwan": "WEI",
+    "hk": "NGAI",
+    "macau": "NGAI",
+    "singapore": "GUI/NGUI",
+    "wade_giles": "NGAI"
+  },
+  {
+    "chinese": "陶",
+    "pinyin": "TAO",
+    "taiwan": "TAO",
+    "hk": "TO/TAO",
+    "macau": "TOU",
+    "singapore": "TAU/TOW",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "姜",
+    "pinyin": "JIANG",
+    "taiwan": "CHIANG",
+    "hk": "KEUNG",
+    "macau": "KEONG",
+    "singapore": "KIANG",
+    "wade_giles": "KEUNG"
+  },
+  {
+    "chinese": "戚",
+    "pinyin": "QI",
+    "taiwan": "CHI",
+    "hk": "CHIK",
+    "macau": "CHEK",
+    "singapore": "CHEK",
+    "wade_giles": "CHI/CHICK/CHIK"
+  },
+  {
+    "chinese": "谢",
+    "pinyin": "XIE",
+    "taiwan": "HSIEH",
+    "hk": "TSE",
+    "macau": "CHE",
+    "singapore": "CHEAH/TAY/CHIA",
+    "wade_giles": "TSE"
+  },
+  {
+    "chinese": "邹",
+    "pinyin": "ZOU",
+    "taiwan": "TSOU",
+    "hk": "CHAU/CHOW",
+    "macau": "CHAO/CHAU",
+    "singapore": "CHEW/CHOU/CHU",
+    "wade_giles": "CHAU/CHOW"
+  },
+  {
+    "chinese": "喻",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "ZU/JOO/JU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "柏",
+    "pinyin": "BAI",
+    "taiwan": "PO",
+    "hk": "PAK",
+    "macau": "PAK",
+    "singapore": "PEK/PEH",
+    "wade_giles": "PAK"
+  },
+  {
+    "chinese": "水",
+    "pinyin": "SHUI",
+    "taiwan": "SHUI",
+    "hk": "SUI",
+    "macau": "SOI",
+    "singapore": "CHWEE/CHUI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "窦",
+    "pinyin": "DOU",
+    "taiwan": "TOU",
+    "hk": "TAU",
+    "macau": "TAO",
+    "singapore": "TOU/TOH",
+    "wade_giles": "TAU"
+  },
+  {
+    "chinese": "章",
+    "pinyin": "ZHANG",
+    "taiwan": "CHANG",
+    "hk": "CHEUNG",
+    "macau": "CHEONG",
+    "singapore": "CHIO/CHIOH/CHEOH",
+    "wade_giles": "CHEONG"
+  },
+  {
+    "chinese": "云",
+    "pinyin": "YUN",
+    "taiwan": "YUN",
+    "hk": "WAN",
+    "macau": "WAN/VAN",
+    "singapore": "HOON/HUNG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "苏",
+    "pinyin": "SU",
+    "taiwan": "SU",
+    "hk": "SO",
+    "macau": "SOU",
+    "singapore": "SOH",
+    "wade_giles": "SO"
+  },
+  {
+    "chinese": "潘",
+    "pinyin": "PAN",
+    "taiwan": "PAN",
+    "hk": "POON/PUN",
+    "macau": "PUN",
+    "singapore": "PHUA",
+    "wade_giles": "POON/PUN"
+  },
+  {
+    "chinese": "葛",
+    "pinyin": "GE",
+    "taiwan": "KO",
+    "hk": "KOT",
+    "macau": "KOT",
+    "singapore": "KAT/KUAH",
+    "wade_giles": "KOT"
+  },
+  {
+    "chinese": "奚",
+    "pinyin": "XI",
+    "taiwan": "HSI",
+    "hk": "HAI",
+    "macau": "HAI",
+    "singapore": "HEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "范",
+    "pinyin": "FAN",
+    "taiwan": "FAN",
+    "hk": "FAN",
+    "macau": "FAN",
+    "singapore": "HUANG",
+    "wade_giles": "FAN"
+  },
+  {
+    "chinese": "彭",
+    "pinyin": "PENG",
+    "taiwan": "PENG",
+    "hk": "PANG",
+    "macau": "PANG",
+    "singapore": "PEH",
+    "wade_giles": "PANG"
+  },
+  {
+    "chinese": "郎",
+    "pinyin": "LANG",
+    "taiwan": "LANG",
+    "hk": "LONG",
+    "macau": "LONG",
+    "singapore": "LONG/LANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "鲁",
+    "pinyin": "LU",
+    "taiwan": "LU",
+    "hk": "LO",
+    "macau": "LOU",
+    "singapore": "LOO",
+    "wade_giles": "LO"
+  },
+  {
+    "chinese": "韦",
+    "pinyin": "WEI",
+    "taiwan": "WEI",
+    "hk": "WAI",
+    "macau": "WAI",
+    "singapore": "WEE",
+    "wade_giles": "WAI"
+  },
+  {
+    "chinese": "昌",
+    "pinyin": "CHANG",
+    "taiwan": "CHANG",
+    "hk": "CHEUNG",
+    "macau": "CHEONG",
+    "singapore": "CHIANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "马",
+    "pinyin": "MA",
+    "taiwan": "MA",
+    "hk": "MA",
+    "macau": "MA",
+    "singapore": "BEH",
+    "wade_giles": "MAR/MA"
+  },
+  {
+    "chinese": "苗",
+    "pinyin": "MIAO",
+    "taiwan": "MIAO",
+    "hk": "MIU",
+    "macau": "MIO",
+    "singapore": "MIAU",
+    "wade_giles": "MIU"
+  },
+  {
+    "chinese": "凤",
+    "pinyin": "FENG",
+    "taiwan": "FENG",
+    "hk": "FUNG",
+    "macau": "FONG",
+    "singapore": "HONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "花",
+    "pinyin": "HUA",
+    "taiwan": "HUA",
+    "hk": "FA",
+    "macau": "FA",
+    "singapore": "HUAY",
+    "wade_giles": "FA"
+  },
+  {
+    "chinese": "方",
+    "pinyin": "FANG",
+    "taiwan": "FANG",
+    "hk": "FONG",
+    "macau": "FONG",
+    "singapore": "PNG/PUNG",
+    "wade_giles": "FONG/FANG"
+  },
+  {
+    "chinese": "俞",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "JOO/JU",
+    "wade_giles": "YU/YUE"
+  },
+  {
+    "chinese": "任",
+    "pinyin": "REN",
+    "taiwan": "JEN",
+    "hk": "YAM",
+    "macau": "IAM",
+    "singapore": "ZIM/JIM",
+    "wade_giles": "YAM"
+  },
+  {
+    "chinese": "袁",
+    "pinyin": "YUAN",
+    "taiwan": "YUAN",
+    "hk": "YUEN",
+    "macau": "UN/IUN",
+    "singapore": "WANG",
+    "wade_giles": "YUEN"
+  },
+  {
+    "chinese": "柳",
+    "pinyin": "LIU",
+    "taiwan": "LIU",
+    "hk": "LAU",
+    "macau": "LAO",
+    "singapore": "LEW",
+    "wade_giles": "LAU"
+  },
+  {
+    "chinese": "酆",
+    "pinyin": "FENG",
+    "taiwan": "FENG",
+    "hk": "FUNG",
+    "macau": "FONG",
+    "singapore": "HONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "鲍",
+    "pinyin": "BAO",
+    "taiwan": "PAO",
+    "hk": "PAU",
+    "macau": "PAO",
+    "singapore": "POW/PAU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "史",
+    "pinyin": "SHI",
+    "taiwan": "SHIH",
+    "hk": "SZE",
+    "macau": "SI",
+    "singapore": "SZE/SU/SER",
+    "wade_giles": "SI"
+  },
+  {
+    "chinese": "唐",
+    "pinyin": "TANG",
+    "taiwan": "TANG",
+    "hk": "TONG",
+    "macau": "TONG",
+    "singapore": "TNG/TANG",
+    "wade_giles": "TONG"
+  },
+  {
+    "chinese": "费",
+    "pinyin": "FEI",
+    "taiwan": "FEI",
+    "hk": "PEI",
+    "macau": "PEI",
+    "singapore": "HWEE/HUI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "廉",
+    "pinyin": "LIAN",
+    "taiwan": "LIEN",
+    "hk": "LIM",
+    "macau": "LIM",
+    "singapore": "LIAM",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "岑",
+    "pinyin": "CEN",
+    "taiwan": "TSEN",
+    "hk": "SUM/SHUM",
+    "macau": "SAM",
+    "singapore": "NGIM",
+    "wade_giles": "SHUM"
+  },
+  {
+    "chinese": "薛",
+    "pinyin": "XUE",
+    "taiwan": "HSUEH",
+    "hk": "SIT",
+    "macau": "SIT",
+    "singapore": "SIH",
+    "wade_giles": "SIT"
+  },
+  {
+    "chinese": "雷",
+    "pinyin": "LEI",
+    "taiwan": "LEI",
+    "hk": "LUI",
+    "macau": "LOI",
+    "singapore": "LUI",
+    "wade_giles": "LUI"
+  },
+  {
+    "chinese": "贺",
+    "pinyin": "HE",
+    "taiwan": "HO",
+    "hk": "HO",
+    "macau": "HO",
+    "singapore": "HOR",
+    "wade_giles": "HO"
+  },
+  {
+    "chinese": "倪",
+    "pinyin": "NI",
+    "taiwan": "NI",
+    "hk": "NGAI",
+    "macau": "NGAI",
+    "singapore": "GEH/GOI",
+    "wade_giles": "NGAI"
+  },
+  {
+    "chinese": "汤",
+    "pinyin": "TANG",
+    "taiwan": "TANG",
+    "hk": "TONG",
+    "macau": "TONG",
+    "singapore": "TNG",
+    "wade_giles": "TONG"
+  },
+  {
+    "chinese": "滕",
+    "pinyin": "TENG",
+    "taiwan": "TENG",
+    "hk": "TANG",
+    "macau": "TANG",
+    "singapore": "TENG/THENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "殷",
+    "pinyin": "YIN",
+    "taiwan": "YIN",
+    "hk": "YAN",
+    "macau": "IAN",
+    "singapore": "YAM/HNG/HEUNG",
+    "wade_giles": "YEN/YAN"
+  },
+  {
+    "chinese": "罗",
+    "pinyin": "LUO",
+    "taiwan": "LO",
+    "hk": "LAW/LO",
+    "macau": "LO",
+    "singapore": "LO/LOR/LAW",
+    "wade_giles": "LAW"
+  },
+  {
+    "chinese": "毕",
+    "pinyin": "BI",
+    "taiwan": "PI",
+    "hk": "PUT",
+    "macau": "PAT",
+    "singapore": "BIK",
+    "wade_giles": "PAT"
+  },
+  {
+    "chinese": "郝",
+    "pinyin": "HAO",
+    "taiwan": "HAO",
+    "hk": "KOK",
+    "macau": "KOK",
+    "singapore": "HOW/HAK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "邬",
+    "pinyin": "WU",
+    "taiwan": "WU",
+    "hk": "WU",
+    "macau": "VU / WU",
+    "singapore": "WOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "安",
+    "pinyin": "AN",
+    "taiwan": "AN",
+    "hk": "ON",
+    "macau": "ON",
+    "singapore": "ANN/ANG",
+    "wade_giles": "ON"
+  },
+  {
+    "chinese": "常",
+    "pinyin": "CHANG",
+    "taiwan": "CHANG",
+    "hk": "SHEUNG",
+    "macau": "SHEONG",
+    "singapore": "SEONG/SIONG/SIOH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "乐",
+    "pinyin": "YUE",
+    "taiwan": "YUEH",
+    "hk": "LOK/OK",
+    "macau": "LOK/OK/NGOK",
+    "singapore": "LAK",
+    "wade_giles": "LOK"
+  },
+  {
+    "chinese": "于",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "YEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "时",
+    "pinyin": "SHI",
+    "taiwan": "SHIH",
+    "hk": "SEE/SZE",
+    "macau": "SI",
+    "singapore": "SEE/SI",
+    "wade_giles": "SI"
+  },
+  {
+    "chinese": "傅",
+    "pinyin": "FU",
+    "taiwan": "FU",
+    "hk": "FU/FOO",
+    "macau": "FU",
+    "singapore": "POO/POH",
+    "wade_giles": "FU"
+  },
+  {
+    "chinese": "皮",
+    "pinyin": "PVANI",
+    "taiwan": "PI",
+    "hk": "PEI",
+    "macau": "PEI",
+    "singapore": "PUAY",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "卞",
+    "pinyin": "BIAN",
+    "taiwan": "PIEN",
+    "hk": "PIN",
+    "macau": "PIN",
+    "singapore": "PIANG",
+    "wade_giles": "PIN"
+  },
+  {
+    "chinese": "齐",
+    "pinyin": "QI",
+    "taiwan": "CHI",
+    "hk": "CHAI",
+    "macau": "CHAI",
+    "singapore": "CHEE",
+    "wade_giles": "CHAI"
+  },
+  {
+    "chinese": "康",
+    "pinyin": "KANG",
+    "taiwan": "KANG",
+    "hk": "HONG",
+    "macau": "HONG",
+    "singapore": "KANG/KHANG",
+    "wade_giles": "HONG"
+  },
+  {
+    "chinese": "伍",
+    "pinyin": "WU",
+    "taiwan": "WU",
+    "hk": "NG",
+    "macau": "NG",
+    "singapore": "NG/NGOH",
+    "wade_giles": "NG"
+  },
+  {
+    "chinese": "余",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YU/YUE",
+    "macau": "U",
+    "singapore": "EU/YEE/I",
+    "wade_giles": "YU"
+  },
+  {
+    "chinese": "元",
+    "pinyin": "YUAN",
+    "taiwan": "YUAN",
+    "hk": "YUEN",
+    "macau": "UN / IUN",
+    "singapore": "NGUANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "卜",
+    "pinyin": "BU",
+    "taiwan": "PU",
+    "hk": "PUK",
+    "macau": "POK",
+    "singapore": "POK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "顾",
+    "pinyin": "GU",
+    "taiwan": "KU",
+    "hk": "KOO",
+    "macau": "KU",
+    "singapore": "KOH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "孟",
+    "pinyin": "MENG",
+    "taiwan": "MENG",
+    "hk": "MANG",
+    "macau": "MANG",
+    "singapore": "MENG",
+    "wade_giles": "MANG"
+  },
+  {
+    "chinese": "平",
+    "pinyin": "PING",
+    "taiwan": "PING",
+    "hk": "PING",
+    "macau": "PENG",
+    "singapore": "PENG/PHENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "黄",
+    "pinyin": "HUANG",
+    "taiwan": "HUANG",
+    "hk": "WONG",
+    "macau": "VONG/WONG",
+    "singapore": "NG",
+    "wade_giles": "HWANG/WONG/HUANG/VONG"
+  },
+  {
+    "chinese": "和",
+    "pinyin": "HE",
+    "taiwan": "HO",
+    "hk": "WO",
+    "macau": "VO",
+    "singapore": "HUA/HOA",
+    "wade_giles": "WO"
+  },
+  {
+    "chinese": "穆",
+    "pinyin": "MU",
+    "taiwan": "MU",
+    "hk": "MUK",
+    "macau": "MOK",
+    "singapore": "MOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "萧",
+    "pinyin": "XIAO",
+    "taiwan": "HSIAO",
+    "hk": "SIU/SHIU",
+    "macau": "SIO",
+    "singapore": "SEOW/SIAO",
+    "wade_giles": "SIU/SHIU"
+  },
+  {
+    "chinese": "尹",
+    "pinyin": "YIN",
+    "taiwan": "YIN",
+    "hk": "WAN",
+    "macau": "WAN",
+    "singapore": "UN/EUNG",
+    "wade_giles": "WAN"
+  },
+  {
+    "chinese": "姚",
+    "pinyin": "YAO",
+    "taiwan": "YAO",
+    "hk": "YIU",
+    "macau": "IU/IO",
+    "singapore": "YEO",
+    "wade_giles": "YIU"
+  },
+  {
+    "chinese": "邵",
+    "pinyin": "SHAO",
+    "taiwan": "SHAO",
+    "hk": "SIU/SHIU",
+    "macau": "SIO",
+    "singapore": "SHAW/SEOW/SIOH",
+    "wade_giles": "SIU"
+  },
+  {
+    "chinese": "湛",
+    "pinyin": "ZHAN",
+    "taiwan": "CHAN",
+    "hk": "CHAM",
+    "macau": "CHAM",
+    "singapore": "KAM/KHAM",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "汪",
+    "pinyin": "WANG",
+    "taiwan": "WANG",
+    "hk": "WONG",
+    "macau": "VONG/WONG",
+    "singapore": "WANG",
+    "wade_giles": "WONG"
+  },
+  {
+    "chinese": "祁",
+    "pinyin": "QI",
+    "taiwan": "CHI",
+    "hk": "KEI",
+    "macau": "KEI",
+    "singapore": "KEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "毛",
+    "pinyin": "MAO",
+    "taiwan": "MAO",
+    "hk": "MO",
+    "macau": "MOU",
+    "singapore": "MOH/MOR",
+    "wade_giles": "MO"
+  },
+  {
+    "chinese": "禹",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "WOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "狄",
+    "pinyin": "DI",
+    "taiwan": "TI",
+    "hk": "TIK/DICK",
+    "macau": "TEK",
+    "singapore": "TEK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "米",
+    "pinyin": "MI",
+    "taiwan": "MI",
+    "hk": "MAI",
+    "macau": "MAI",
+    "singapore": "BEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "贝",
+    "pinyin": "BEI",
+    "taiwan": "PEI",
+    "hk": "PUI",
+    "macau": "PUI",
+    "singapore": "PUAY",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "明",
+    "pinyin": "MING",
+    "taiwan": "MING",
+    "hk": "MING",
+    "macau": "MENG",
+    "singapore": "MENG",
+    "wade_giles": "MING"
+  },
+  {
+    "chinese": "臧",
+    "pinyin": "ZANG",
+    "taiwan": "TSANG",
+    "hk": "CHONG",
+    "macau": "TSANG/CHANG/CHAN",
+    "singapore": "TSANG/CHANG/CHAN",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "计",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "KAI",
+    "macau": "KAI",
+    "singapore": "KOI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "伏",
+    "pinyin": "FU",
+    "taiwan": "FU",
+    "hk": "FUK",
+    "macau": "FOK",
+    "singapore": "HOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "成",
+    "pinyin": "CHENG",
+    "taiwan": "CHENG",
+    "hk": "SHING/SING",
+    "macau": "SENG",
+    "singapore": "SENG",
+    "wade_giles": "SING/SHING"
+  },
+  {
+    "chinese": "戴",
+    "pinyin": "DAI",
+    "taiwan": "TAI",
+    "hk": "TAI",
+    "macau": "TAI",
+    "singapore": "TE/TO/TOR",
+    "wade_giles": "TAI/TYE"
+  },
+  {
+    "chinese": "谈",
+    "pinyin": "TAN",
+    "taiwan": "TAN",
+    "hk": "TAM",
+    "macau": "TAM",
+    "singapore": "TAM",
+    "wade_giles": "TAM"
+  },
+  {
+    "chinese": "宋",
+    "pinyin": "SONG",
+    "taiwan": "SUNG / SOONG",
+    "hk": "SUNG",
+    "macau": "SONG",
+    "singapore": "SONG",
+    "wade_giles": "SUNG"
+  },
+  {
+    "chinese": "茅",
+    "pinyin": "MAO",
+    "taiwan": "MAO",
+    "hk": "MAU",
+    "macau": "MAO",
+    "singapore": "MAU/MOW",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "庞",
+    "pinyin": "PANG",
+    "taiwan": "PANG",
+    "hk": "PONG",
+    "macau": "PONG",
+    "singapore": "PANG",
+    "wade_giles": "PONG"
+  },
+  {
+    "chinese": "熊",
+    "pinyin": "XIONG",
+    "taiwan": "HSIUNG",
+    "hk": "HUNG",
+    "macau": "HONG",
+    "singapore": "HIM",
+    "wade_giles": "HUNG"
+  },
+  {
+    "chinese": "纪",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "KEI",
+    "macau": "KEI",
+    "singapore": "KEE",
+    "wade_giles": "KEI"
+  },
+  {
+    "chinese": "舒",
+    "pinyin": "SHU",
+    "taiwan": "SHU",
+    "hk": "SHU",
+    "macau": "SHU",
+    "singapore": "SOO/SU",
+    "wade_giles": "SHU/SHUE"
+  },
+  {
+    "chinese": "屈",
+    "pinyin": "QU",
+    "taiwan": "CHU",
+    "hk": "WAT",
+    "macau": "VAT / WAT",
+    "singapore": "KUT/KUK",
+    "wade_giles": "WAT/WUT"
+  },
+  {
+    "chinese": "项",
+    "pinyin": "XIANG",
+    "taiwan": "HSIANG",
+    "hk": "HONG",
+    "macau": "HONG",
+    "singapore": "HANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "祝",
+    "pinyin": "ZHU",
+    "taiwan": "CHU",
+    "hk": "CHUK",
+    "macau": "CHOK",
+    "singapore": "CHOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "董",
+    "pinyin": "DONG",
+    "taiwan": "TUNG",
+    "hk": "TUNG",
+    "macau": "TONG",
+    "singapore": "TANG/TONG",
+    "wade_giles": "TUNG"
+  },
+  {
+    "chinese": "梁",
+    "pinyin": "LIANG",
+    "taiwan": "LIANG",
+    "hk": "LEUNG",
+    "macau": "LEONG",
+    "singapore": "NEO/NIO/NIU",
+    "wade_giles": "LEONG/LEUNG/LIANG"
+  },
+  {
+    "chinese": "杜",
+    "pinyin": "DU",
+    "taiwan": "TU",
+    "hk": "TO/TAO/TOE",
+    "macau": "TOU",
+    "singapore": "TOH/TOO",
+    "wade_giles": "TAO/TO"
+  },
+  {
+    "chinese": "阮",
+    "pinyin": "RUAN",
+    "taiwan": "JUAN",
+    "hk": "YUEN",
+    "macau": "UN",
+    "singapore": "NGWAN/NGUANG",
+    "wade_giles": "YUEN"
+  },
+  {
+    "chinese": "蓝",
+    "pinyin": "LAN",
+    "taiwan": "LAN",
+    "hk": "LAM/NAM",
+    "macau": "LAM",
+    "singapore": "NAH",
+    "wade_giles": "LAM/LARM"
+  },
+  {
+    "chinese": "闵",
+    "pinyin": "MIN",
+    "taiwan": "MIN",
+    "hk": "MAN",
+    "macau": "MAN",
+    "singapore": "MIANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "席",
+    "pinyin": "XI",
+    "taiwan": "HSI",
+    "hk": "TSIK",
+    "macau": "CHEK",
+    "singapore": "CHEOH/CHIOH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "季",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "KWAI",
+    "macau": "KUAI",
+    "singapore": "KWEE/KUI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "麻",
+    "pinyin": "MA",
+    "taiwan": "MA",
+    "hk": "MA",
+    "macau": "MA",
+    "singapore": "MUA",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "强",
+    "pinyin": "QIANG",
+    "taiwan": "CHIANG",
+    "hk": "KEUNG",
+    "macau": "KEONG",
+    "singapore": "KIANG/KHIANG",
+    "wade_giles": "KEUNG"
+  },
+  {
+    "chinese": "贾",
+    "pinyin": "JIA",
+    "taiwan": "CHIA",
+    "hk": "KA",
+    "macau": "KA",
+    "singapore": "KA/KIA",
+    "wade_giles": "KAR"
+  },
+  {
+    "chinese": "路",
+    "pinyin": "LU",
+    "taiwan": "LU",
+    "hk": "LO",
+    "macau": "LOU",
+    "singapore": "LOH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "娄",
+    "pinyin": "LOU",
+    "taiwan": "LOU",
+    "hk": "LAU",
+    "macau": "LAO",
+    "singapore": "LOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "危",
+    "pinyin": "WEI",
+    "taiwan": "WEI",
+    "hk": "NGAI",
+    "macau": "NGAI",
+    "singapore": "NGUI/NGWEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "江",
+    "pinyin": "JIANG",
+    "taiwan": "CHIANG",
+    "hk": "KONG",
+    "macau": "KONG",
+    "singapore": "KANG",
+    "wade_giles": "KONG"
+  },
+  {
+    "chinese": "童",
+    "pinyin": "TONG",
+    "taiwan": "TUNG",
+    "hk": "TUNG",
+    "macau": "TONG",
+    "singapore": "TONG/THONG",
+    "wade_giles": "TUNG"
+  },
+  {
+    "chinese": "颜",
+    "pinyin": "YAN",
+    "taiwan": "YEN",
+    "hk": "NGAN",
+    "macau": "NGAN",
+    "singapore": "GAN/NGAN/NGANG",
+    "wade_giles": "NGAN"
+  },
+  {
+    "chinese": "郭",
+    "pinyin": "GUO",
+    "taiwan": "KUO",
+    "hk": "KWOK",
+    "macau": "KUOK/KUOC",
+    "singapore": "KUEH/KUEK/KOAY/QUEK",
+    "wade_giles": "KWOK"
+  },
+  {
+    "chinese": "梅",
+    "pinyin": "MEI",
+    "taiwan": "MEI",
+    "hk": "MUI",
+    "macau": "MUI",
+    "singapore": "BOEY/BUAY",
+    "wade_giles": "MUI"
+  },
+  {
+    "chinese": "盛",
+    "pinyin": "SHENG",
+    "taiwan": "SHENG",
+    "hk": "SHING",
+    "macau": "SENG",
+    "singapore": "SENG",
+    "wade_giles": "SHING"
+  },
+  {
+    "chinese": "林",
+    "pinyin": "LIN",
+    "taiwan": "LIN",
+    "hk": "LAM",
+    "macau": "LAM",
+    "singapore": "LIM/LAM",
+    "wade_giles": "LAM/LIM/LUM"
+  },
+  {
+    "chinese": "刁",
+    "pinyin": "DIAO",
+    "taiwan": "TIAO",
+    "hk": "TIU",
+    "macau": "TIU",
+    "singapore": "TEOW/TIAU/TIAO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "锺",
+    "pinyin": "ZHONG",
+    "taiwan": "CHUNG",
+    "hk": "CHUNG",
+    "macau": "CHONG",
+    "singapore": "CHENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "徐",
+    "pinyin": "XU",
+    "taiwan": "HSU",
+    "hk": "CHUI/TSUI",
+    "macau": "CHOI",
+    "singapore": "SU/CHEE/CHER/CHEU",
+    "wade_giles": "TSUI/CHUI"
+  },
+  {
+    "chinese": "邱",
+    "pinyin": "QIU",
+    "taiwan": "CHIU",
+    "hk": "YAU",
+    "macau": "IAO/IAU",
+    "singapore": "KHOO",
+    "wade_giles": "YAU/YAO"
+  },
+  {
+    "chinese": "骆",
+    "pinyin": "LUO",
+    "taiwan": "LO",
+    "hk": "LOK",
+    "macau": "LOK",
+    "singapore": "LOK",
+    "wade_giles": "LOK"
+  },
+  {
+    "chinese": "高",
+    "pinyin": "GAO",
+    "taiwan": "KAO",
+    "hk": "KO",
+    "macau": "KOU",
+    "singapore": "KOH/KOR",
+    "wade_giles": "KO"
+  },
+  {
+    "chinese": "夏",
+    "pinyin": "XIA",
+    "taiwan": "HSIA",
+    "hk": "HA",
+    "macau": "HA",
+    "singapore": "HAY",
+    "wade_giles": "HA"
+  },
+  {
+    "chinese": "蔡",
+    "pinyin": "CAI",
+    "taiwan": "TSAI",
+    "hk": "CHOI/TSOI",
+    "macau": "CHOI",
+    "singapore": "CHUA",
+    "wade_giles": "CHOI/CHOY/TSOI"
+  },
+  {
+    "chinese": "田",
+    "pinyin": "TIAN",
+    "taiwan": "TIEN",
+    "hk": "TIN",
+    "macau": "TIN",
+    "singapore": "CHAN",
+    "wade_giles": "TIN"
+  },
+  {
+    "chinese": "樊",
+    "pinyin": "FAN",
+    "taiwan": "FAN",
+    "hk": "FAN",
+    "macau": "FAN",
+    "singapore": "HAN/HUANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "胡",
+    "pinyin": "HU",
+    "taiwan": "HU",
+    "hk": "WOO/WU",
+    "macau": "VU/WU",
+    "singapore": "OH",
+    "wade_giles": "WOO/WO/WU"
+  },
+  {
+    "chinese": "凌",
+    "pinyin": "LING",
+    "taiwan": "LING",
+    "hk": "LING",
+    "macau": "LENG",
+    "singapore": "LENG",
+    "wade_giles": "LING"
+  },
+  {
+    "chinese": "霍",
+    "pinyin": "HUO",
+    "taiwan": "HUO",
+    "hk": "FOK",
+    "macau": "FOK",
+    "singapore": "KAK/KHAK",
+    "wade_giles": "FORK/FOK/FOG"
+  },
+  {
+    "chinese": "虞",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "NGOH/NGOR",
+    "wade_giles": "YU"
+  },
+  {
+    "chinese": "万",
+    "pinyin": "WAN",
+    "taiwan": "WAN",
+    "hk": "MAN",
+    "macau": "MAN",
+    "singapore": "MAN/BUANG",
+    "wade_giles": "MAN"
+  },
+  {
+    "chinese": "支",
+    "pinyin": "ZHI",
+    "taiwan": "CHIH",
+    "hk": "CHI/TZE",
+    "macau": "CHI",
+    "singapore": "CHEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "柯",
+    "pinyin": "KE",
+    "taiwan": "KO",
+    "hk": "OR",
+    "macau": "O",
+    "singapore": "KOA/KWA/KUA",
+    "wade_giles": "OR"
+  },
+  {
+    "chinese": "昝",
+    "pinyin": "ZAN",
+    "taiwan": "TSAN",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "管",
+    "pinyin": "GUAN",
+    "taiwan": "KUAN",
+    "hk": "KWUN",
+    "macau": "KUN",
+    "singapore": "KUANG/KWAN",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "卢",
+    "pinyin": "LU",
+    "taiwan": "LU",
+    "hk": "LO/LU/LOO",
+    "macau": "LOU",
+    "singapore": "LOH",
+    "wade_giles": "LO/LOO/LOW"
+  },
+  {
+    "chinese": "莫",
+    "pinyin": "MO",
+    "taiwan": "MO",
+    "hk": "MOK",
+    "macau": "MOK",
+    "singapore": "MOK",
+    "wade_giles": "MOK"
+  },
+  {
+    "chinese": "经",
+    "pinyin": "JING",
+    "taiwan": "CHING",
+    "hk": "KING",
+    "macau": "KENG",
+    "singapore": "KENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "房",
+    "pinyin": "FANG",
+    "taiwan": "FANG",
+    "hk": "FONG",
+    "macau": "FONG",
+    "singapore": "PANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "裘",
+    "pinyin": "QIU",
+    "taiwan": "CHIU",
+    "hk": "KAU",
+    "macau": "KAO",
+    "singapore": "KEW",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "缪",
+    "pinyin": "MIAO",
+    "taiwan": "MIAO",
+    "hk": "MIU/ MAU",
+    "macau": "MIO",
+    "singapore": "MOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "干",
+    "pinyin": "GAN",
+    "taiwan": "KAN",
+    "hk": "KON",
+    "macau": "KON",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "解",
+    "pinyin": "XIE",
+    "taiwan": "HSIEH",
+    "hk": "KAI",
+    "macau": "KAI",
+    "singapore": "HAI/HYE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "应",
+    "pinyin": "YING",
+    "taiwan": "YING",
+    "hk": "YING",
+    "macau": "IENG",
+    "singapore": "ENG",
+    "wade_giles": "YING"
+  },
+  {
+    "chinese": "宗",
+    "pinyin": "ZONG",
+    "taiwan": "TSUNG",
+    "hk": "CHUNG",
+    "macau": "CHONG",
+    "singapore": "CHONG",
+    "wade_giles": "CHUNG"
+  },
+  {
+    "chinese": "丁",
+    "pinyin": "DING",
+    "taiwan": "TING",
+    "hk": "TING",
+    "macau": "TENG",
+    "singapore": "TENG",
+    "wade_giles": "TING"
+  },
+  {
+    "chinese": "宣",
+    "pinyin": "XUAN",
+    "taiwan": "HSUAN",
+    "hk": "SUEN",
+    "macau": "SUN",
+    "singapore": "SUANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "贲",
+    "pinyin": "BEN",
+    "taiwan": "PEN",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "邓",
+    "pinyin": "DENG",
+    "taiwan": "TENG",
+    "hk": "TANG",
+    "macau": "TANG",
+    "singapore": "TENG",
+    "wade_giles": "TANG"
+  },
+  {
+    "chinese": "郁",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YUK",
+    "macau": "IOK",
+    "singapore": "HIOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "单",
+    "pinyin": "SHAN",
+    "taiwan": "SHAN",
+    "hk": "SIN",
+    "macau": "SIN",
+    "singapore": "SIANG",
+    "wade_giles": "SIN"
+  },
+  {
+    "chinese": "杭",
+    "pinyin": "HANG",
+    "taiwan": "HANG",
+    "hk": "HONG",
+    "macau": "HONG",
+    "singapore": "HANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "洪",
+    "pinyin": "HONG",
+    "taiwan": "HUNG",
+    "hk": "HUNG",
+    "macau": "HONG",
+    "singapore": "ANG",
+    "wade_giles": "HUNG"
+  },
+  {
+    "chinese": "包",
+    "pinyin": "BAO",
+    "taiwan": "PAO",
+    "hk": "PAU",
+    "macau": "PAO/BAO",
+    "singapore": "POW/PAO",
+    "wade_giles": "PAU"
+  },
+  {
+    "chinese": "诸",
+    "pinyin": "ZHU",
+    "taiwan": "CHU",
+    "hk": "CHU",
+    "macau": "CHU",
+    "singapore": "CHOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "左",
+    "pinyin": "ZUO",
+    "taiwan": "TSO",
+    "hk": "CHOR/JOR",
+    "macau": "CHO",
+    "singapore": "CHO/CHOR",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "石",
+    "pinyin": "SHI",
+    "taiwan": "SHIH",
+    "hk": "SHEK",
+    "macau": "SEK",
+    "singapore": "CHEOH/CHIOH",
+    "wade_giles": "SHEK/SECK/SEK"
+  },
+  {
+    "chinese": "崔",
+    "pinyin": "CUI",
+    "taiwan": "TSUI",
+    "hk": "CHUI/TSUI",
+    "macau": "CHOI",
+    "singapore": "CHWEE/CHUI",
+    "wade_giles": "TSUI/CHUI"
+  },
+  {
+    "chinese": "吉",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "KUT",
+    "macau": "KAT/KIT",
+    "singapore": "KIK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "钮",
+    "pinyin": "NIU",
+    "taiwan": "NIU",
+    "hk": "NAU",
+    "macau": "NAO",
+    "singapore": "NEW/NIU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "龚",
+    "pinyin": "GONG",
+    "taiwan": "KUNG",
+    "hk": "KUNG",
+    "macau": "KONG",
+    "singapore": "KIONG/KONG",
+    "wade_giles": "KUNG"
+  },
+  {
+    "chinese": "程",
+    "pinyin": "CHENG",
+    "taiwan": "CHENG",
+    "hk": "CHING",
+    "macau": "CHENG",
+    "singapore": "THIA",
+    "wade_giles": "CHING"
+  },
+  {
+    "chinese": "嵇",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "",
+    "macau": "",
+    "singapore": "KEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "邢",
+    "pinyin": "XING",
+    "taiwan": "HSING",
+    "hk": "YING",
+    "macau": "IENG",
+    "singapore": "HIAH/HIA",
+    "wade_giles": "YING"
+  },
+  {
+    "chinese": "滑",
+    "pinyin": "HUA",
+    "taiwan": "HUA",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "裴",
+    "pinyin": "PEI",
+    "taiwan": "PEI",
+    "hk": "PUI",
+    "macau": "PUI",
+    "singapore": "PUAY",
+    "wade_giles": "PUI"
+  },
+  {
+    "chinese": "陆",
+    "pinyin": "LU",
+    "taiwan": "LU",
+    "hk": "LUK",
+    "macau": "LOK",
+    "singapore": "LOK/LEK",
+    "wade_giles": "LUK/LOOK"
+  },
+  {
+    "chinese": "荣",
+    "pinyin": "RONG",
+    "taiwan": "JUNG",
+    "hk": "WING",
+    "macau": "VENG/VING",
+    "singapore": "YONG",
+    "wade_giles": "WING"
+  },
+  {
+    "chinese": "翁",
+    "pinyin": "WENG",
+    "taiwan": "WENG",
+    "hk": "YUNG",
+    "macau": "IONG",
+    "singapore": "ANG/ENG",
+    "wade_giles": "YUNG"
+  },
+  {
+    "chinese": "荀",
+    "pinyin": "XUN",
+    "taiwan": "HSUN",
+    "hk": "",
+    "macau": "SON",
+    "singapore": "SOON/SUNG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "羊",
+    "pinyin": "YANG",
+    "taiwan": "YANG",
+    "hk": "YEUNG",
+    "macau": "IEONG",
+    "singapore": "YEOH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "於",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "YEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "惠",
+    "pinyin": "HUI",
+    "taiwan": "HUI",
+    "hk": "WAI",
+    "macau": "VAI",
+    "singapore": "HWEE",
+    "wade_giles": "WAI"
+  },
+  {
+    "chinese": "甄",
+    "pinyin": "ZHEN",
+    "taiwan": "CHEN",
+    "hk": "YAN",
+    "macau": "IAN",
+    "singapore": "YING",
+    "wade_giles": "YAN"
+  },
+  {
+    "chinese": "麹",
+    "pinyin": "QU",
+    "taiwan": "CHU",
+    "hk": "KUK",
+    "macau": "KOK",
+    "singapore": "KHEK/KEK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "家",
+    "pinyin": "JIA",
+    "taiwan": "CHIA",
+    "hk": "KA/KAH",
+    "macau": "KA",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "封",
+    "pinyin": "FENG",
+    "taiwan": "FENG",
+    "hk": "FUNG",
+    "macau": "FONG",
+    "singapore": "HONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "芮",
+    "pinyin": "RUI",
+    "taiwan": "JUI",
+    "hk": "",
+    "macau": "IOI",
+    "singapore": "JUAY",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "羿",
+    "pinyin": "YI",
+    "taiwan": "I/YI",
+    "hk": "YIK",
+    "macau": "IEK",
+    "singapore": "NGEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "储",
+    "pinyin": "CHU",
+    "taiwan": "CHU",
+    "hk": "CHU",
+    "macau": "CHU",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "靳",
+    "pinyin": "JIN",
+    "taiwan": "CHIN",
+    "hk": "KAN",
+    "macau": "",
+    "singapore": "KING/KEUNG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "汲",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "邴",
+    "pinyin": "BING",
+    "taiwan": "PING",
+    "hk": "",
+    "macau": "",
+    "singapore": "PENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "糜",
+    "pinyin": "MI",
+    "taiwan": "MI",
+    "hk": "MEI",
+    "macau": "MEI",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "松",
+    "pinyin": "SONG",
+    "taiwan": "SUNG",
+    "hk": "CHUNG",
+    "macau": "CHONG",
+    "singapore": "SONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "井",
+    "pinyin": "JING",
+    "taiwan": "CHING",
+    "hk": "",
+    "macau": "CHENG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "段",
+    "pinyin": "DUAN",
+    "taiwan": "TUAN",
+    "hk": "TUEN",
+    "macau": "TUN",
+    "singapore": "TEUNG",
+    "wade_giles": "TUEN"
+  },
+  {
+    "chinese": "富",
+    "pinyin": "FU",
+    "taiwan": "FU",
+    "hk": "FOO",
+    "macau": "FU",
+    "singapore": "POO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "巫",
+    "pinyin": "WU",
+    "taiwan": "WU",
+    "hk": "MO",
+    "macau": "MOU",
+    "singapore": "BOO",
+    "wade_giles": "MO"
+  },
+  {
+    "chinese": "乌",
+    "pinyin": "WU",
+    "taiwan": "WU",
+    "hk": "WOO",
+    "macau": "WU",
+    "singapore": "WOO/OH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "焦",
+    "pinyin": "JIAO",
+    "taiwan": "CHIAO",
+    "hk": "CHIU",
+    "macau": "CHIO",
+    "singapore": "CHEOW/CHIAU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "巴",
+    "pinyin": "BA",
+    "taiwan": "PA",
+    "hk": "PA",
+    "macau": "PA",
+    "singapore": "PA",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "弓",
+    "pinyin": "GONG",
+    "taiwan": "KUNG",
+    "hk": "KUNG",
+    "macau": "KONG",
+    "singapore": "KENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "牧",
+    "pinyin": "MU",
+    "taiwan": "MU",
+    "hk": "MUK",
+    "macau": "MOK",
+    "singapore": "MOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "隗",
+    "pinyin": "KUI",
+    "taiwan": "KUI",
+    "hk": "",
+    "macau": "",
+    "singapore": "NGWEE/NGUI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "山",
+    "pinyin": "SHAN",
+    "taiwan": "SHAN",
+    "hk": "SAN",
+    "macau": "SAN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "谷",
+    "pinyin": "GU",
+    "taiwan": "KU",
+    "hk": "KUK",
+    "macau": "KOK",
+    "singapore": "KOK",
+    "wade_giles": "KUK"
+  },
+  {
+    "chinese": "车",
+    "pinyin": "CHE",
+    "taiwan": "CHE",
+    "hk": "",
+    "macau": "CHE",
+    "singapore": "CHIA",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "侯",
+    "pinyin": "HOU",
+    "taiwan": "HOU",
+    "hk": "HAU",
+    "macau": "HAO",
+    "singapore": "HOH/HOU",
+    "wade_giles": "HOU/HAU"
+  },
+  {
+    "chinese": "宓",
+    "pinyin": "MI",
+    "taiwan": "MI",
+    "hk": "",
+    "macau": "",
+    "singapore": "MIK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "蓬",
+    "pinyin": "PENG",
+    "taiwan": "PENG",
+    "hk": "PANG",
+    "macau": "PANG",
+    "singapore": "PONG/PHONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "全",
+    "pinyin": "QUAN",
+    "taiwan": "CHUAN",
+    "hk": "CHUEN",
+    "macau": "CHUN",
+    "singapore": "CHUANG",
+    "wade_giles": "CHUEN"
+  },
+  {
+    "chinese": "郗",
+    "pinyin": "XI",
+    "taiwan": "HSI",
+    "hk": "",
+    "macau": "",
+    "singapore": "HEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "班",
+    "pinyin": "BAN",
+    "taiwan": "PAN",
+    "hk": "PAN",
+    "macau": "PAN",
+    "singapore": "PANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "仰",
+    "pinyin": "YANG",
+    "taiwan": "YANG",
+    "hk": "YEUNG",
+    "macau": "IEONG",
+    "singapore": "NGIANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "秋",
+    "pinyin": "QIU",
+    "taiwan": "CHIU",
+    "hk": "CHAU",
+    "macau": "CHAO",
+    "singapore": "CHEW",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "仲",
+    "pinyin": "ZHONG",
+    "taiwan": "CHUNG",
+    "hk": "CHUNG",
+    "macau": "CHONG",
+    "singapore": "TONG",
+    "wade_giles": "CHUNG"
+  },
+  {
+    "chinese": "伊",
+    "pinyin": "YI",
+    "taiwan": "I/YI",
+    "hk": "YEE",
+    "macau": "I",
+    "singapore": "YEE",
+    "wade_giles": "YEE"
+  },
+  {
+    "chinese": "宫",
+    "pinyin": "GONG",
+    "taiwan": "KUNG",
+    "hk": "KUNG",
+    "macau": "KONG",
+    "singapore": "KENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "甯",
+    "pinyin": "NING",
+    "taiwan": "NING",
+    "hk": "NING",
+    "macau": "NENG",
+    "singapore": "LENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "仇",
+    "pinyin": "QIU",
+    "taiwan": "CHIU",
+    "hk": "SAU",
+    "macau": "SAO",
+    "singapore": "CHEW",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "栾",
+    "pinyin": "LUAN",
+    "taiwan": "LUAN",
+    "hk": "LUEN",
+    "macau": "",
+    "singapore": "LUANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "暴",
+    "pinyin": "BAO",
+    "taiwan": "PAO",
+    "hk": "PO",
+    "macau": "POU",
+    "singapore": "POW/PAU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "甘",
+    "pinyin": "GAN",
+    "taiwan": "KAN",
+    "hk": "KAM",
+    "macau": "KAM",
+    "singapore": "KAM",
+    "wade_giles": "KAM"
+  },
+  {
+    "chinese": "钭",
+    "pinyin": "DOU",
+    "taiwan": "TOU",
+    "hk": "",
+    "macau": "",
+    "singapore": "TOH/TOU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "厉",
+    "pinyin": "LI",
+    "taiwan": "LI",
+    "hk": "LAI",
+    "macau": "LAI",
+    "singapore": "LEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "戎",
+    "pinyin": "RONG",
+    "taiwan": "JUNG",
+    "hk": "YUNG",
+    "macau": "IONG",
+    "singapore": "JONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "祖",
+    "pinyin": "ZU",
+    "taiwan": "TSU",
+    "hk": "CHO",
+    "macau": "CHOU",
+    "singapore": "CHOH/CHOU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "武",
+    "pinyin": "WU",
+    "taiwan": "WU",
+    "hk": "MO",
+    "macau": "MOU",
+    "singapore": "BOO",
+    "wade_giles": "MO"
+  },
+  {
+    "chinese": "符",
+    "pinyin": "FU",
+    "taiwan": "FU",
+    "hk": "FOO",
+    "macau": "FU",
+    "singapore": "HOO",
+    "wade_giles": "FU/FOO"
+  },
+  {
+    "chinese": "刘",
+    "pinyin": "LIU",
+    "taiwan": "LIU",
+    "hk": "LAU",
+    "macau": "LAO",
+    "singapore": "LOW/LAU",
+    "wade_giles": "LAU"
+  },
+  {
+    "chinese": "景",
+    "pinyin": "JING",
+    "taiwan": "CHING",
+    "hk": "KING",
+    "macau": "KENG",
+    "singapore": "KENG",
+    "wade_giles": "KING"
+  },
+  {
+    "chinese": "詹",
+    "pinyin": "ZHAN",
+    "taiwan": "CHAN",
+    "hk": "JIM/TSIM",
+    "macau": "CHIM",
+    "singapore": "CHIAM",
+    "wade_giles": "TSIM/JIM"
+  },
+  {
+    "chinese": "束",
+    "pinyin": "SHU",
+    "taiwan": "SHU",
+    "hk": "",
+    "macau": "CHOK",
+    "singapore": "SOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "龙",
+    "pinyin": "LONG",
+    "taiwan": "LUNG",
+    "hk": "LUNG/LOONG",
+    "macau": "LONG",
+    "singapore": "LENG",
+    "wade_giles": "LUNG/LOONG"
+  },
+  {
+    "chinese": "叶",
+    "pinyin": "YE",
+    "taiwan": "YEH",
+    "hk": "IP/YIP",
+    "macau": "IP",
+    "singapore": "YAP",
+    "wade_giles": "YIP/IP"
+  },
+  {
+    "chinese": "幸",
+    "pinyin": "XING",
+    "taiwan": "HSING",
+    "hk": "HANG",
+    "macau": "HANG",
+    "singapore": "HENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "司",
+    "pinyin": "SI",
+    "taiwan": "SSU",
+    "hk": "SZE",
+    "macau": "SI",
+    "singapore": "SEE",
+    "wade_giles": "SZE"
+  },
+  {
+    "chinese": "韶",
+    "pinyin": "SHAO",
+    "taiwan": "SHAO",
+    "hk": "SIU",
+    "macau": "SIO",
+    "singapore": "SEOW",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "郜",
+    "pinyin": "GAO",
+    "taiwan": "KAO",
+    "hk": "",
+    "macau": "",
+    "singapore": "KOW/KAU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "黎",
+    "pinyin": "LI",
+    "taiwan": "LI",
+    "hk": "LAI",
+    "macau": "LAI",
+    "singapore": "LOI/LEE/LI",
+    "wade_giles": "LAI"
+  },
+  {
+    "chinese": "蓟",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "",
+    "macau": "KAI",
+    "singapore": "KEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "薄",
+    "pinyin": "BO",
+    "taiwan": "PO",
+    "hk": "",
+    "macau": "POK",
+    "singapore": "POH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "印",
+    "pinyin": "YIN",
+    "taiwan": "YIN",
+    "hk": "YAN",
+    "macau": "IAN",
+    "singapore": "YING",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "宿",
+    "pinyin": "SU",
+    "taiwan": "SU",
+    "hk": "SUK",
+    "macau": "SOK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "白",
+    "pinyin": "BAI",
+    "taiwan": "PAI",
+    "hk": "PAK",
+    "macau": "PAK",
+    "singapore": "PEH",
+    "wade_giles": "PAK"
+  },
+  {
+    "chinese": "怀",
+    "pinyin": "HUAI",
+    "taiwan": "HUAI",
+    "hk": "WAI",
+    "macau": "WAI",
+    "singapore": "HUAI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "蒲",
+    "pinyin": "PU",
+    "taiwan": "PU",
+    "hk": "PO",
+    "macau": "POU",
+    "singapore": "PHOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "邰",
+    "pinyin": "TAI",
+    "taiwan": "TAI",
+    "hk": "TAI",
+    "macau": "",
+    "singapore": "THAI/TAI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "从",
+    "pinyin": "CONG",
+    "taiwan": "TSUNG",
+    "hk": "CHUNG",
+    "macau": "CHONG",
+    "singapore": "CHONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "鄂",
+    "pinyin": "E",
+    "taiwan": "O",
+    "hk": "",
+    "macau": "NGOK",
+    "singapore": "NGAK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "索",
+    "pinyin": "SUO",
+    "taiwan": "SO",
+    "hk": "",
+    "macau": "SOK",
+    "singapore": "SOK/SOH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "咸",
+    "pinyin": "XIAN",
+    "taiwan": "HSIEN",
+    "hk": "HAM",
+    "macau": "HAM",
+    "singapore": "HAM",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "籍",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "",
+    "macau": "CHEK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "赖",
+    "pinyin": "LAI",
+    "taiwan": "LAI",
+    "hk": "LAI",
+    "macau": "LAI",
+    "singapore": "LAI/NAI",
+    "wade_giles": "LAI"
+  },
+  {
+    "chinese": "卓",
+    "pinyin": "ZHUO",
+    "taiwan": "CHO",
+    "hk": "CHEUK",
+    "macau": "CHEOK",
+    "singapore": "TOH",
+    "wade_giles": "CHEUK"
+  },
+  {
+    "chinese": "蔺",
+    "pinyin": "LIN",
+    "taiwan": "LIN",
+    "hk": "LUN",
+    "macau": "LON",
+    "singapore": "LIANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "屠",
+    "pinyin": "TU",
+    "taiwan": "TU",
+    "hk": "TO",
+    "macau": "TOU",
+    "singapore": "TOO/TU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "蒙",
+    "pinyin": "MENG",
+    "taiwan": "MENG",
+    "hk": "MUNG",
+    "macau": "MONG",
+    "singapore": "MONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "池",
+    "pinyin": "CHI",
+    "taiwan": "CHIH",
+    "hk": "CHI/TSZ",
+    "macau": "CHI",
+    "singapore": "TEE",
+    "wade_giles": "CHI"
+  },
+  {
+    "chinese": "乔",
+    "pinyin": "QIAO",
+    "taiwan": "CHIAO",
+    "hk": "KIU",
+    "macau": "KIO",
+    "singapore": "KEOW",
+    "wade_giles": "KIU"
+  },
+  {
+    "chinese": "阴",
+    "pinyin": "YIN",
+    "taiwan": "YIN",
+    "hk": "YAM",
+    "macau": "IAM",
+    "singapore": "YIM",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "鬱",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "WAT",
+    "macau": "VAT",
+    "singapore": "HIOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "胥",
+    "pinyin": "XU",
+    "taiwan": "HSU",
+    "hk": "SUI",
+    "macau": "SOI",
+    "singapore": "SOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "能",
+    "pinyin": "NAI",
+    "taiwan": "NAI",
+    "hk": "NANG",
+    "macau": "NANG",
+    "singapore": "LENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "苍",
+    "pinyin": "CANG",
+    "taiwan": "TSANG",
+    "hk": "CHONG",
+    "macau": "CHONG",
+    "singapore": "CHANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "双",
+    "pinyin": "SHUANG",
+    "taiwan": "SHUANG",
+    "hk": "SHEUNG",
+    "macau": "SEONG",
+    "singapore": "SANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "闻",
+    "pinyin": "WEN",
+    "taiwan": "WEN",
+    "hk": "MAN",
+    "macau": "MAN",
+    "singapore": "BOON",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "莘",
+    "pinyin": "SHEN",
+    "taiwan": "SHEN",
+    "hk": "",
+    "macau": "",
+    "singapore": "SING",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "党",
+    "pinyin": "DANG",
+    "taiwan": "TANG",
+    "hk": "TONG",
+    "macau": "TONG",
+    "singapore": "TANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "翟",
+    "pinyin": "ZHAI",
+    "taiwan": "CHAI",
+    "hk": "CHAK",
+    "macau": "CHAK",
+    "singapore": "TEK",
+    "wade_giles": "CHAK"
+  },
+  {
+    "chinese": "谭",
+    "pinyin": "TAN",
+    "taiwan": "TAN",
+    "hk": "TAM",
+    "macau": "TAM",
+    "singapore": "THAM",
+    "wade_giles": "TAM"
+  },
+  {
+    "chinese": "贡",
+    "pinyin": "GONG",
+    "taiwan": "KUNG",
+    "hk": "KUNG",
+    "macau": "KONG",
+    "singapore": "KONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "劳",
+    "pinyin": "LAO",
+    "taiwan": "LAO",
+    "hk": "LO",
+    "macau": "LOU",
+    "singapore": "LOW",
+    "wade_giles": "LO"
+  },
+  {
+    "chinese": "逄",
+    "pinyin": "PANG",
+    "taiwan": "PANG",
+    "hk": "FUNG",
+    "macau": "FONG",
+    "singapore": "PHANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "姬",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "KEI",
+    "macau": "KEI",
+    "singapore": "KEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "申",
+    "pinyin": "SHEN",
+    "taiwan": "SHEN",
+    "hk": "SAN/SUN",
+    "macau": "SON",
+    "singapore": "SING",
+    "wade_giles": "SUN"
+  },
+  {
+    "chinese": "扶",
+    "pinyin": "FU",
+    "taiwan": "FU",
+    "hk": "FOO",
+    "macau": "FU",
+    "singapore": "HOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "堵",
+    "pinyin": "DU",
+    "taiwan": "TU",
+    "hk": "TO",
+    "macau": "TOU",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "冉",
+    "pinyin": "RAN",
+    "taiwan": "JAN",
+    "hk": "",
+    "macau": "",
+    "singapore": "ZIAM/JIAM",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "宰",
+    "pinyin": "ZAI",
+    "taiwan": "TSAI",
+    "hk": "CHOI",
+    "macau": "CHOI",
+    "singapore": "CHAI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "郦",
+    "pinyin": "LI",
+    "taiwan": "LI",
+    "hk": "",
+    "macau": "",
+    "singapore": "LEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "雍",
+    "pinyin": "YONG",
+    "taiwan": "YUNG",
+    "hk": "YUNG",
+    "macau": "IONG",
+    "singapore": "YONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "郤",
+    "pinyin": "XI",
+    "taiwan": "HSI",
+    "hk": "",
+    "macau": "LIO",
+    "singapore": "KHIAH/KIAH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "璩",
+    "pinyin": "QU",
+    "taiwan": "CHU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "桑",
+    "pinyin": "SANG",
+    "taiwan": "SANG",
+    "hk": "SONG",
+    "macau": "SONG",
+    "singapore": "SNG/SEUNG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "桂",
+    "pinyin": "GUI",
+    "taiwan": "KUI",
+    "hk": "KWAI",
+    "macau": "KUAI",
+    "singapore": "KWEE/KUI",
+    "wade_giles": "KAI"
+  },
+  {
+    "chinese": "濮",
+    "pinyin": "PU",
+    "taiwan": "PU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "牛",
+    "pinyin": "NIU",
+    "taiwan": "NIU",
+    "hk": "NGAU",
+    "macau": "NGAO",
+    "singapore": "GOO",
+    "wade_giles": "NGAU"
+  },
+  {
+    "chinese": "寿",
+    "pinyin": "SHOU",
+    "taiwan": "SHOU",
+    "hk": "SAU",
+    "macau": "SAO",
+    "singapore": "SEW",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "通",
+    "pinyin": "TONG",
+    "taiwan": "TUNG",
+    "hk": "TUNG",
+    "macau": "TONG",
+    "singapore": "TONG/THONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "边",
+    "pinyin": "BIAN",
+    "taiwan": "PIEN",
+    "hk": "PIN",
+    "macau": "PIN",
+    "singapore": "PIANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "扈",
+    "pinyin": "HU",
+    "taiwan": "HU",
+    "hk": "WOO",
+    "macau": "VU",
+    "singapore": "HOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "燕",
+    "pinyin": "YAN",
+    "taiwan": "YEN",
+    "hk": "YIN",
+    "macau": "IN",
+    "singapore": "YIN",
+    "wade_giles": "YIN"
+  },
+  {
+    "chinese": "冀",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "KEI",
+    "macau": "KEI",
+    "singapore": "KEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "郏",
+    "pinyin": "JIA",
+    "taiwan": "CHIA",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "浦",
+    "pinyin": "PU",
+    "taiwan": "PU",
+    "hk": "PO",
+    "macau": "POU",
+    "singapore": "POH/POU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "尚",
+    "pinyin": "SHANG",
+    "taiwan": "SHANG",
+    "hk": "SHEUNG",
+    "macau": "SEONG",
+    "singapore": "SIANG",
+    "wade_giles": "SHEUNG"
+  },
+  {
+    "chinese": "农",
+    "pinyin": "NONG",
+    "taiwan": "NUNG",
+    "hk": "NUNG",
+    "macau": "NONG",
+    "singapore": "LONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "温",
+    "pinyin": "WEN",
+    "taiwan": "WEN",
+    "hk": "WAN",
+    "macau": "VAN",
+    "singapore": "WOON/OON",
+    "wade_giles": "WAN"
+  },
+  {
+    "chinese": "别",
+    "pinyin": "BIE",
+    "taiwan": "PIEH",
+    "hk": "PIT",
+    "macau": "PIT",
+    "singapore": "PIAK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "庄",
+    "pinyin": "ZHUANG",
+    "taiwan": "CHUANG",
+    "hk": "CHONG",
+    "macau": "CHONG",
+    "singapore": "CHNG",
+    "wade_giles": "CHONG"
+  },
+  {
+    "chinese": "晏",
+    "pinyin": "YAN",
+    "taiwan": "YEN",
+    "hk": "",
+    "macau": "NGAN",
+    "singapore": "ANG",
+    "wade_giles": "NGAN"
+  },
+  {
+    "chinese": "柴",
+    "pinyin": "CHAI",
+    "taiwan": "CHAI",
+    "hk": "CHAI",
+    "macau": "CHAI",
+    "singapore": "CHA",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "瞿",
+    "pinyin": "QU",
+    "taiwan": "CHU",
+    "hk": "KUI",
+    "macau": "KOI",
+    "singapore": "KEU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "阎",
+    "pinyin": "YAN",
+    "taiwan": "YEN",
+    "hk": "YIM",
+    "macau": "IM",
+    "singapore": "GIAM/NGIAM",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "充",
+    "pinyin": "CHONG",
+    "taiwan": "CHUNG",
+    "hk": "CHUNG",
+    "macau": "CHONG",
+    "singapore": "CHONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "慕",
+    "pinyin": "MU",
+    "taiwan": "MU",
+    "hk": "MO",
+    "macau": "MOU",
+    "singapore": "MOR",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "连",
+    "pinyin": "LIAN",
+    "taiwan": "LIEN",
+    "hk": "LIN",
+    "macau": "LIN",
+    "singapore": "LIAN/LIANG",
+    "wade_giles": "LIN"
+  },
+  {
+    "chinese": "茹",
+    "pinyin": "RU",
+    "taiwan": "JU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "JOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "习",
+    "pinyin": "XI",
+    "taiwan": "HSI",
+    "hk": "CHAP",
+    "macau": "CHAP",
+    "singapore": "SIP/SIK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "宦",
+    "pinyin": "HUAN",
+    "taiwan": "HUAN",
+    "hk": "WAN",
+    "macau": "VAN",
+    "singapore": "HUANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "艾",
+    "pinyin": "AI",
+    "taiwan": "AI",
+    "hk": "NGAI",
+    "macau": "NGAI",
+    "singapore": "HIAN/NGAI",
+    "wade_giles": "NGAI"
+  },
+  {
+    "chinese": "鱼",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "容",
+    "pinyin": "RONG",
+    "taiwan": "JUNG",
+    "hk": "YUNG",
+    "macau": "IONG",
+    "singapore": "YONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "向",
+    "pinyin": "XIANG",
+    "taiwan": "HSIANG",
+    "hk": "HEUNG",
+    "macau": "HEONG",
+    "singapore": "HIANG",
+    "wade_giles": "HEUNG"
+  },
+  {
+    "chinese": "古",
+    "pinyin": "GU",
+    "taiwan": "KU",
+    "hk": "KOO",
+    "macau": "KU",
+    "singapore": "KOH",
+    "wade_giles": "KU/KHOO/KOO/KUO"
+  },
+  {
+    "chinese": "易",
+    "pinyin": "YI",
+    "taiwan": "I/YI",
+    "hk": "YIK",
+    "macau": "IEK",
+    "singapore": "EK",
+    "wade_giles": "YICK/YIK"
+  },
+  {
+    "chinese": "慎",
+    "pinyin": "SHEN",
+    "taiwan": "SHEN",
+    "hk": "",
+    "macau": "SAN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "戈",
+    "pinyin": "GE",
+    "taiwan": "KO",
+    "hk": "",
+    "macau": "KO",
+    "singapore": "KHO/KOR",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "廖",
+    "pinyin": "LIAO",
+    "taiwan": "LIAO",
+    "hk": "LIU",
+    "macau": "LIO/LIU",
+    "singapore": "LEOW",
+    "wade_giles": "LIAO/LIU/LIEW"
+  },
+  {
+    "chinese": "庾",
+    "pinyin": "YU",
+    "taiwan": "YU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "JOO/JU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "终",
+    "pinyin": "ZHONG",
+    "taiwan": "CHUNG",
+    "hk": "CHUNG",
+    "macau": "CHONG",
+    "singapore": "CHONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "暨",
+    "pinyin": "JI",
+    "taiwan": "CHI",
+    "hk": "",
+    "macau": "KEI",
+    "singapore": "KEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "居",
+    "pinyin": "JU",
+    "taiwan": "CHU",
+    "hk": "KUI",
+    "macau": "KOI",
+    "singapore": "KEU/KER",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "衡",
+    "pinyin": "HENG",
+    "taiwan": "HENG",
+    "hk": "",
+    "macau": "HANG",
+    "singapore": "HUANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "步",
+    "pinyin": "BU",
+    "taiwan": "PU",
+    "hk": "PO",
+    "macau": "POU",
+    "singapore": "POH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "都",
+    "pinyin": "DU",
+    "taiwan": "TU",
+    "hk": "TO",
+    "macau": "TOU",
+    "singapore": "TOH/TOU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "耿",
+    "pinyin": "GENG",
+    "taiwan": "KENG",
+    "hk": "",
+    "macau": "KANG",
+    "singapore": "KUANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "满",
+    "pinyin": "MAN",
+    "taiwan": "MAN",
+    "hk": "MUN",
+    "macau": "MUN",
+    "singapore": "MUAN",
+    "wade_giles": "MOON"
+  },
+  {
+    "chinese": "弘",
+    "pinyin": "HONG",
+    "taiwan": "HUNG",
+    "hk": "WUNG",
+    "macau": "VANG",
+    "singapore": "HONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "匡",
+    "pinyin": "KUANG",
+    "taiwan": "KUANG",
+    "hk": "HONG",
+    "macau": "HONG",
+    "singapore": "KUANG",
+    "wade_giles": "HONG"
+  },
+  {
+    "chinese": "国",
+    "pinyin": "GUO",
+    "taiwan": "KUO",
+    "hk": "KWOK",
+    "macau": "KUOK",
+    "singapore": "KOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "文",
+    "pinyin": "WEN",
+    "taiwan": "WEN",
+    "hk": "MAN",
+    "macau": "MAN",
+    "singapore": "BOON/BUNG",
+    "wade_giles": "MAN"
+  },
+  {
+    "chinese": "寇",
+    "pinyin": "KOU",
+    "taiwan": "KOU",
+    "hk": "KAU",
+    "macau": "KAO",
+    "singapore": "KOH/KOU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "广",
+    "pinyin": "GUANG",
+    "taiwan": "KUANG",
+    "hk": "KWONG",
+    "macau": "KUONG",
+    "singapore": "KUANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "禄",
+    "pinyin": "LU",
+    "taiwan": "LU",
+    "hk": "LUK",
+    "macau": "LOK",
+    "singapore": "LOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "阙",
+    "pinyin": "QUE",
+    "taiwan": "CHUEH",
+    "hk": "KUIT",
+    "macau": "KUET",
+    "singapore": "KUEK/KUEH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "东",
+    "pinyin": "DONG",
+    "taiwan": "TUNG",
+    "hk": "TUNG",
+    "macau": "DONG",
+    "singapore": "TONG/TANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "欧",
+    "pinyin": "OU",
+    "taiwan": "OU",
+    "hk": "AU",
+    "macau": "AO",
+    "singapore": "OW/AU/AO",
+    "wade_giles": "AU"
+  },
+  {
+    "chinese": "殳",
+    "pinyin": "SHU",
+    "taiwan": "SHU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "沃",
+    "pinyin": "WO",
+    "taiwan": "WO",
+    "hk": "",
+    "macau": "IOK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "利",
+    "pinyin": "LI",
+    "taiwan": "LI",
+    "hk": "LEE/LI",
+    "macau": "LEI/LEE",
+    "singapore": "LEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "蔚",
+    "pinyin": "WEI",
+    "taiwan": "WEI",
+    "hk": "WAI",
+    "macau": "WAI",
+    "singapore": "WAY/WE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "越",
+    "pinyin": "YUE",
+    "taiwan": "YUEH",
+    "hk": "",
+    "macau": "UT",
+    "singapore": "WAK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "夔",
+    "pinyin": "KUI",
+    "taiwan": "KUEI",
+    "hk": "",
+    "macau": "",
+    "singapore": "KWEE/KUI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "隆",
+    "pinyin": "LONG",
+    "taiwan": "LUNG",
+    "hk": "LUNG",
+    "macau": "LONG",
+    "singapore": "LONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "师",
+    "pinyin": "SHI",
+    "taiwan": "SHIH",
+    "hk": "SZE",
+    "macau": "SI",
+    "singapore": "SZE/SER",
+    "wade_giles": "SI"
+  },
+  {
+    "chinese": "巩",
+    "pinyin": "GONG",
+    "taiwan": "KUNG",
+    "hk": "KUNG",
+    "macau": "KONH",
+    "singapore": "KIONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "厍",
+    "pinyin": "SHE",
+    "taiwan": "SHE",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "聂",
+    "pinyin": "NIE",
+    "taiwan": "NIEH",
+    "hk": "NIP/LIP",
+    "macau": "",
+    "singapore": "NIAP",
+    "wade_giles": "LIP"
+  },
+  {
+    "chinese": "晁",
+    "pinyin": "ZHAO",
+    "taiwan": "CHAO",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "勾",
+    "pinyin": "GOU",
+    "taiwan": "KOU",
+    "hk": "",
+    "macau": "NGAO",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "敖",
+    "pinyin": "AO",
+    "taiwan": "AO",
+    "hk": "NGO",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": "O/NGO"
+  },
+  {
+    "chinese": "融",
+    "pinyin": "RONG",
+    "taiwan": "JUNG",
+    "hk": "YUNG",
+    "macau": "IONG",
+    "singapore": "YONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "冷",
+    "pinyin": "LENG",
+    "taiwan": "LENG",
+    "hk": "",
+    "macau": "LANG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "訾",
+    "pinyin": "ZI",
+    "taiwan": "TZU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "辛",
+    "pinyin": "XIN",
+    "taiwan": "HSIN",
+    "hk": "SAN/SUN",
+    "macau": "SON",
+    "singapore": "SING",
+    "wade_giles": "SUN"
+  },
+  {
+    "chinese": "阚",
+    "pinyin": "KAN",
+    "taiwan": "KAN",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "那",
+    "pinyin": "NA",
+    "taiwan": "NA",
+    "hk": "NA",
+    "macau": "NA",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "简",
+    "pinyin": "JIAN",
+    "taiwan": "CHIEN",
+    "hk": "KAN",
+    "macau": "KAN",
+    "singapore": "KAN/KANG",
+    "wade_giles": "KAN"
+  },
+  {
+    "chinese": "饶",
+    "pinyin": "RAO",
+    "taiwan": "JAO",
+    "hk": "YIU",
+    "macau": "IO",
+    "singapore": "JEOW/JIAU",
+    "wade_giles": "YIU"
+  },
+  {
+    "chinese": "空",
+    "pinyin": "KONG",
+    "taiwan": "KUNG",
+    "hk": "HUNG",
+    "macau": "HONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "曾",
+    "pinyin": "ZENG",
+    "taiwan": "TSENG",
+    "hk": "TSANG",
+    "macau": "CHANG",
+    "singapore": "CHAN/TJAN",
+    "wade_giles": "TSANG"
+  },
+  {
+    "chinese": "毋",
+    "pinyin": "WU",
+    "taiwan": "WU",
+    "hk": "MO",
+    "macau": "MOU",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "沙",
+    "pinyin": "SHA",
+    "taiwan": "SHA",
+    "hk": "SHA",
+    "macau": "SA",
+    "singapore": "SHA/SUA",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "乜",
+    "pinyin": "MIE",
+    "taiwan": "NIEH",
+    "hk": "",
+    "macau": "NE",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "养",
+    "pinyin": "YANG",
+    "taiwan": "YANG",
+    "hk": "YEUNG",
+    "macau": "IEONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "鞠",
+    "pinyin": "JU",
+    "taiwan": "CHU",
+    "hk": "",
+    "macau": "KOK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "须",
+    "pinyin": "XU",
+    "taiwan": "HSU",
+    "hk": "",
+    "macau": "SEOI/SOI",
+    "singapore": "SOO/SU",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "丰",
+    "pinyin": "FENG",
+    "taiwan": "FENG",
+    "hk": "FUNG",
+    "macau": "FONG",
+    "singapore": "HONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "巢",
+    "pinyin": "CHAO",
+    "taiwan": "CHAO",
+    "hk": "",
+    "macau": "CHAO",
+    "singapore": "CHOW/CHAU/CHAO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "关",
+    "pinyin": "GUAN",
+    "taiwan": "KUAN",
+    "hk": "KWAN",
+    "macau": "KUAN",
+    "singapore": "KWAN/KUANG",
+    "wade_giles": "KWAN"
+  },
+  {
+    "chinese": "蒯",
+    "pinyin": "KUAI",
+    "taiwan": "KUAI",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "相",
+    "pinyin": "XIANG",
+    "taiwan": "HSIANG",
+    "hk": "SHEUNG",
+    "macau": "SEONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "查",
+    "pinyin": "CHA",
+    "taiwan": "CHA",
+    "hk": "CHA",
+    "macau": "CHA",
+    "singapore": "CHA",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "后",
+    "pinyin": "HOU",
+    "taiwan": "HOU",
+    "hk": "HAU",
+    "macau": "HAO",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "荆",
+    "pinyin": "JING",
+    "taiwan": "CHING",
+    "hk": "KING",
+    "macau": "KENG",
+    "singapore": "KENG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "红",
+    "pinyin": "HONG",
+    "taiwan": "HUNG",
+    "hk": "HUNG",
+    "macau": "HONG",
+    "singapore": "ANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "游",
+    "pinyin": "YOU",
+    "taiwan": "YU",
+    "hk": "YAU",
+    "macau": "IAO",
+    "singapore": "YEW/YU",
+    "wade_giles": "YAU"
+  },
+  {
+    "chinese": "竺",
+    "pinyin": "ZHU",
+    "taiwan": "CHU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "权",
+    "pinyin": "QUAN",
+    "taiwan": "CHUAN",
+    "hk": "KUEN",
+    "macau": "KUN",
+    "singapore": "KUAN/KUANG",
+    "wade_giles": "KUEN"
+  },
+  {
+    "chinese": "逯",
+    "pinyin": "LU",
+    "taiwan": "LU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "盖",
+    "pinyin": "GAI",
+    "taiwan": "KO",
+    "hk": "KOI",
+    "macau": "KOI",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "益",
+    "pinyin": "YI",
+    "taiwan": "I / YI",
+    "hk": "YIK",
+    "macau": "IEK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "桓",
+    "pinyin": "HUAN",
+    "taiwan": "HUAN",
+    "hk": "WUN",
+    "macau": "VUN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "公",
+    "pinyin": "GONG",
+    "taiwan": "KUNG",
+    "hk": "KUNG",
+    "macau": "KONG",
+    "singapore": "KONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "丘",
+    "pinyin": "QIU",
+    "taiwan": "CHIU",
+    "hk": "YAU",
+    "macau": "IAO",
+    "singapore": "KHEW/KHOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "万俟",
+    "pinyin": "MOQI",
+    "taiwan": "MO-CHI",
+    "hk": "",
+    "macau": "",
+    "singapore": "MOK KEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "司马",
+    "pinyin": "SIMA",
+    "taiwan": "SSU-MA",
+    "hk": "SZEMA",
+    "macau": "SI MA",
+    "singapore": "SEE BEH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "上官",
+    "pinyin": "SHANGGUAN",
+    "taiwan": "SHANG-KUAN",
+    "hk": "SHEUNGKWUN",
+    "macau": "SEONG KUN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "欧阳",
+    "pinyin": "OUYANG",
+    "taiwan": "OU-YANG",
+    "hk": "AUYEUNG",
+    "macau": "AO IEONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "夏侯",
+    "pinyin": "XIAHOU",
+    "taiwan": "HSIA-HOU",
+    "hk": "HAHAU",
+    "macau": "HA HAO",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "诸葛",
+    "pinyin": "ZHUGE",
+    "taiwan": "CHU-KO",
+    "hk": "CHUKOK",
+    "macau": "",
+    "singapore": "CHUKAT",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "闻人",
+    "pinyin": "WENREN",
+    "taiwan": "WEN-JEN",
+    "hk": "MANYAN",
+    "macau": "MAN IAN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "东方",
+    "pinyin": "DONGFANG",
+    "taiwan": "TUNG-FANG",
+    "hk": "TUNGFONG",
+    "macau": "TONG FONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "赫连",
+    "pinyin": "HELIAN",
+    "taiwan": "HO-LIEN",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "皇甫",
+    "pinyin": "HUANGFU",
+    "taiwan": "HUANG-FU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "尉迟",
+    "pinyin": "YUCHI",
+    "taiwan": "YU-CHIH",
+    "hk": "WAICHI",
+    "macau": "VAI CHI",
+    "singapore": "UTTI",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "公羊",
+    "pinyin": "GONGYANG",
+    "taiwan": "KUNG-YANG",
+    "hk": "KUNGYEUNG",
+    "macau": "KONG IEONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "澹台",
+    "pinyin": "TANTAI",
+    "taiwan": "TAN-TAI",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "公冶",
+    "pinyin": "GONGYE",
+    "taiwan": "KUNG-YEH",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "宗政",
+    "pinyin": "ZONGZHENG",
+    "taiwan": "TSUNG-CHENG",
+    "hk": "",
+    "macau": "CHONG CHENG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "濮阳",
+    "pinyin": "PUYANG",
+    "taiwan": "PU-YANG",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "淳于",
+    "pinyin": "CHUNYU",
+    "taiwan": "CHUN-YU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "单于",
+    "pinyin": "CHANYU",
+    "taiwan": "CHAN-YU",
+    "hk": "",
+    "macau": "SIN U",
+    "singapore": "SIANG WOO",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "太叔",
+    "pinyin": "TAISHU",
+    "taiwan": "TAI-SHU",
+    "hk": "",
+    "macau": "TAI SOK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "申屠",
+    "pinyin": "SHENTU",
+    "taiwan": "SHEN-TU",
+    "hk": "",
+    "macau": "SAN TOU",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "公孙",
+    "pinyin": "GONGSUN",
+    "taiwan": "KUNG-SUN",
+    "hk": "KUNGSUEN",
+    "macau": "KONG SUN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "仲孙",
+    "pinyin": "ZHONGSUN",
+    "taiwan": "CHUNG-SUN",
+    "hk": "CHUNGSUEN",
+    "macau": "CHONG SUN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "轩辕",
+    "pinyin": "XUANYUAN",
+    "taiwan": "HSUAN-YUAN",
+    "hk": "HINYUEN",
+    "macau": "HIN UN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "令狐",
+    "pinyin": "LINGHU",
+    "taiwan": "LING-HU",
+    "hk": "LINGWOO",
+    "macau": "LENG VU",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "锺离",
+    "pinyin": "ZHONGLI",
+    "taiwan": "CHUNG-LI",
+    "hk": "",
+    "macau": "CHONG LEI",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "宇文",
+    "pinyin": "YUWEN",
+    "taiwan": "YU-WEN",
+    "hk": "YUMAN",
+    "macau": "U MAN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "长孙",
+    "pinyin": "ZHANGSUN",
+    "taiwan": "CHANG-SUN",
+    "hk": "CHEUNGSUEN",
+    "macau": "CHEONG SUN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "慕容",
+    "pinyin": "MURONG",
+    "taiwan": "MU-JUNG",
+    "hk": "MOYUNG",
+    "macau": "MOU IONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "鲜于",
+    "pinyin": "XIANYU",
+    "taiwan": "HSIEN-YU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "闾丘",
+    "pinyin": "LUQIU",
+    "taiwan": "LU-CHIU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "司徒",
+    "pinyin": "SITU",
+    "taiwan": "SSU-TU",
+    "hk": "SZETO",
+    "macau": "SI TOU",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "司空",
+    "pinyin": "SIKONG",
+    "taiwan": "SSU-KUNG",
+    "hk": "SZEHUNG",
+    "macau": "SI HONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "亓官",
+    "pinyin": "QIGUAN",
+    "taiwan": "",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "司寇",
+    "pinyin": "SIKOU",
+    "taiwan": "",
+    "hk": "SZEKAU",
+    "macau": "SI KAO",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "仉",
+    "pinyin": "ZHANG",
+    "taiwan": "",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "督",
+    "pinyin": "DU",
+    "taiwan": "TU",
+    "hk": "TUK",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "子车",
+    "pinyin": "ZICHE",
+    "taiwan": "",
+    "hk": "",
+    "macau": "CHI CHE",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "颛孙",
+    "pinyin": "ZHUANSUN",
+    "taiwan": "",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "端木",
+    "pinyin": "DUANMU",
+    "taiwan": "TUAN-MU",
+    "hk": "",
+    "macau": "TUN MOK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "巫马",
+    "pinyin": "WUMA",
+    "taiwan": "WU-MA",
+    "hk": "MOMA",
+    "macau": "MOU MA",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "公西",
+    "pinyin": "GONGXI",
+    "taiwan": "KUNG-HSI",
+    "hk": "KUNGSAI",
+    "macau": "KONG SAI",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "漆雕",
+    "pinyin": "QIDIAO",
+    "taiwan": "CHI-TIAO",
+    "hk": "",
+    "macau": "CHAT TIU",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "乐正",
+    "pinyin": "YUEZHENG",
+    "taiwan": "YUEH-CHENG",
+    "hk": "",
+    "macau": "NGOK CHENG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "壤驷",
+    "pinyin": "XIANGSI",
+    "taiwan": "",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "公良",
+    "pinyin": "GONGLIANG",
+    "taiwan": "KUNG-LIANG",
+    "hk": "KUNGLEUNG",
+    "macau": "KONG LEONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "拓拔",
+    "pinyin": "TUOBA",
+    "taiwan": "TO-PA",
+    "hk": "",
+    "macau": "TOK PAT",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "夹谷",
+    "pinyin": "JIAGU",
+    "taiwan": "CHIA-KU",
+    "hk": "",
+    "macau": "KAP KOK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "宰父",
+    "pinyin": "ZAIFU",
+    "taiwan": "",
+    "hk": "",
+    "macau": "CHOI FU",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "穀梁",
+    "pinyin": "GULIANG",
+    "taiwan": "KU-LIANG",
+    "hk": "",
+    "macau": "KOK LEONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "晋",
+    "pinyin": "JIN",
+    "taiwan": "CHIN",
+    "hk": "CHUN",
+    "macau": "CHON",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "楚",
+    "pinyin": "CHU",
+    "taiwan": "CHU",
+    "hk": "CHOR",
+    "macau": "CHO",
+    "singapore": "",
+    "wade_giles": "CHOR"
+  },
+  {
+    "chinese": "闫",
+    "pinyin": "YAN",
+    "taiwan": "YEN",
+    "hk": "YIM",
+    "macau": "IM",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "法",
+    "pinyin": "FA",
+    "taiwan": "FA",
+    "hk": "FA",
+    "macau": "FAT",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "汝",
+    "pinyin": "RU",
+    "taiwan": "JU",
+    "hk": "YU",
+    "macau": "U",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "鄢",
+    "pinyin": "YAN",
+    "taiwan": "YEN",
+    "hk": "YIN",
+    "macau": "IN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "涂",
+    "pinyin": "TU",
+    "taiwan": "TU",
+    "hk": "TO",
+    "macau": "TOU",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "钦",
+    "pinyin": "QIN",
+    "taiwan": "CHIN",
+    "hk": "",
+    "macau": "IAM",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "段干",
+    "pinyin": "DUANGAN",
+    "taiwan": "TUAN-KAN",
+    "hk": "",
+    "macau": "TUN KON",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "百里",
+    "pinyin": "BAILI",
+    "taiwan": "PAI-LI",
+    "hk": "",
+    "macau": "PAK LEI",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "东郭",
+    "pinyin": "DONGGUO",
+    "taiwan": "TUNG-KUO",
+    "hk": "",
+    "macau": "TONG KUOK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "南门",
+    "pinyin": "NANMEN",
+    "taiwan": "NAN-MEN",
+    "hk": "NAMMUN",
+    "macau": "NAM MUN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "呼延",
+    "pinyin": "HUYAN",
+    "taiwan": "HU-YEN",
+    "hk": "",
+    "macau": "FU IN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "归",
+    "pinyin": "GUI",
+    "taiwan": "KUEI",
+    "hk": "KWAI",
+    "macau": "KUAI",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "海",
+    "pinyin": "HAI",
+    "taiwan": "HAI",
+    "hk": "HOI",
+    "macau": "HOI",
+    "singapore": "",
+    "wade_giles": "HOI"
+  },
+  {
+    "chinese": "羊舌",
+    "pinyin": "YANGSHE",
+    "taiwan": "",
+    "hk": "",
+    "macau": "IEONG SIT",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "微生",
+    "pinyin": "WEISHENG",
+    "taiwan": "",
+    "hk": "",
+    "macau": "MEI SANG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "岳",
+    "pinyin": "YUE",
+    "taiwan": "YUEH",
+    "hk": "NGOK",
+    "macau": "NGOK",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "帅",
+    "pinyin": "SHUAI",
+    "taiwan": "",
+    "hk": "",
+    "macau": "SOI",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "缑",
+    "pinyin": "GOU",
+    "taiwan": "KOU",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "亢",
+    "pinyin": "KANG",
+    "taiwan": "KANG",
+    "hk": "HONG",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "况",
+    "pinyin": "KUANG",
+    "taiwan": "KWANG/KUANG",
+    "hk": "KWONG",
+    "macau": "FONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "后",
+    "pinyin": "HOU",
+    "taiwan": "HOU",
+    "hk": "HAU",
+    "macau": "HAO",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "有",
+    "pinyin": "YOU",
+    "taiwan": "YU",
+    "hk": "YAU",
+    "macau": "IAO",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "琴",
+    "pinyin": "QIN",
+    "taiwan": "CHIN",
+    "hk": "",
+    "macau": "KAM",
+    "singapore": "KIM",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "梁丘",
+    "pinyin": "LIANGQIU",
+    "taiwan": "LIANG-CHIU",
+    "hk": "",
+    "macau": "LEONG IAO",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "左丘",
+    "pinyin": "ZUOQIU",
+    "taiwan": "",
+    "hk": "",
+    "macau": "CHO IAO",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "东门",
+    "pinyin": "DONGMEN",
+    "taiwan": "TUNG-MEN",
+    "hk": "TUNGMUN",
+    "macau": "TONG MUN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "西门",
+    "pinyin": "XIMEN",
+    "taiwan": "HSI-MEN",
+    "hk": "SAIMUN",
+    "macau": "SAI MUN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "商",
+    "pinyin": "SHANG",
+    "taiwan": "SHANG",
+    "hk": "SHEUNG",
+    "macau": "SEONG",
+    "singapore": "SIANG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "牟",
+    "pinyin": "MOU",
+    "taiwan": "MOU",
+    "hk": "",
+    "macau": "MAO",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "佘",
+    "pinyin": "SHE",
+    "taiwan": "",
+    "hk": "SHEH",
+    "macau": "SE",
+    "singapore": "SIA/SIAH/SEAH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "佴",
+    "pinyin": "ER",
+    "taiwan": "",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "伯",
+    "pinyin": "BO",
+    "taiwan": "PO",
+    "hk": "BAK",
+    "macau": "PAK",
+    "singapore": "PEK/PEH",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "赏",
+    "pinyin": "SHANG",
+    "taiwan": "SHANG",
+    "hk": "SHEUNG",
+    "macau": "SEONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "南宫",
+    "pinyin": "NANGONG",
+    "taiwan": "NAN-KUNG",
+    "hk": "NAMKUNG",
+    "macau": "NAM KONG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "墨",
+    "pinyin": "MO",
+    "taiwan": "MO",
+    "hk": "MAK",
+    "macau": "MAK",
+    "singapore": "BAK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "哈",
+    "pinyin": "HA",
+    "taiwan": "HA",
+    "hk": "HA",
+    "macau": "HA",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "谯",
+    "pinyin": "QIAO",
+    "taiwan": "CHIAO",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "笪",
+    "pinyin": "DA",
+    "taiwan": "TA",
+    "hk": "",
+    "macau": "",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "年",
+    "pinyin": "NIAN",
+    "taiwan": "NIEN",
+    "hk": "NIN",
+    "macau": "NIN",
+    "singapore": "NEE",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "爱",
+    "pinyin": "AI",
+    "taiwan": "AI",
+    "hk": "OI",
+    "macau": "OI",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "阳",
+    "pinyin": "YANG",
+    "taiwan": "YANG",
+    "hk": "YEUNG",
+    "macau": "IEONG",
+    "singapore": "",
+    "wade_giles": "YEUNG"
+  },
+  {
+    "chinese": "佟",
+    "pinyin": "TONG",
+    "taiwan": "TUNG",
+    "hk": "TUNG",
+    "macau": "TONG",
+    "singapore": "TONG/THONG",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "第五",
+    "pinyin": "DIWU",
+    "taiwan": "TI-WU",
+    "hk": "TAING",
+    "macau": "TAI NG",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "言",
+    "pinyin": "YAN",
+    "taiwan": "YEN",
+    "hk": "YIN",
+    "macau": "IN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "福",
+    "pinyin": "FU",
+    "taiwan": "FU",
+    "hk": "FUK",
+    "macau": "FOK",
+    "singapore": "HOK",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "麦",
+    "pinyin": "MAI",
+    "taiwan": "MAI",
+    "hk": "MAK",
+    "macau": "MAK",
+    "singapore": "BEH",
+    "wade_giles": "MAK"
+  },
+  {
+    "chinese": "源",
+    "pinyin": "YUAN",
+    "taiwan": "YUAN",
+    "hk": "YUEN",
+    "macau": "UN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "难",
+    "pinyin": "NAN",
+    "taiwan": "NAN",
+    "hk": "NAN",
+    "macau": "NAN",
+    "singapore": "",
+    "wade_giles": ""
+  },
+  {
+    "chinese": "星",
+    "pinyin": "XING",
+    "taiwan": "XING/HSING/HSING/SYING/SING",
+    "hk": "SING",
+    "macau": "SENG",
+    "singapore": "",
+    "wade_giles": ""
+  }
+]
