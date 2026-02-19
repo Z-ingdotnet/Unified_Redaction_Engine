@@ -265,14 +265,21 @@ class AirlinePIIRedactor:
     def _register_custom_recognizers(self):
         # Airline Patterns
         airline_patterns = {
-            "PNR": r"\b[A-Z0-9]{5,6}\b",
-            "Flight Number": r"\b([A-Z]{2}|[A-Z]\d|\d[A-Z])\s?\d{3,4}\b",
-            "Ticket Number": r"\b\d{3}[-]?\d{10}\b",
-            "Frequent Flyer": r"\b(?=[A-Z0-9]*\d)[A-Z0-9]{5,12}\b" # Require at least one digit
+            # Flight Number: 2 chars (letters/digits) + 3-4 digits. 
+            # Give higher score (0.6) to prioritize over PNR (0.4)
+            "Flight Number": (r"\b([A-Z]{2}|[A-Z]\d|\d[A-Z])\s?\d{3,4}\b", 0.6),
+            
+            # PNR: 5-6 alphanumeric. 
+            # Note: This overlaps with Flight Numbers (e.g. MU567 is 5 chars).
+            # We rely on the lower score (0.4) and the PNR validator to filter out Flight Numbers if needed.
+            "PNR": (r"\b[A-Z0-9]{5,6}\b", 0.4),
+            
+            "Ticket Number": (r"\b\d{3}[-]?\d{10}\b", 0.6),
+            "Frequent Flyer": (r"\b(?=[A-Z0-9]*\d)[A-Z0-9]{5,12}\b", 0.5) 
         }
 
-        for entity_label, pattern_regex in airline_patterns.items():
-            pattern = Pattern(name=entity_label, regex=pattern_regex, score=0.4) # Lower score to allow validation to boost it
+        for entity_label, (pattern_regex, score) in airline_patterns.items():
+            pattern = Pattern(name=entity_label, regex=pattern_regex, score=score)
             recognizer = PatternRecognizer(supported_entity=entity_label, patterns=[pattern])
             self.analyzer.registry.add_recognizer(recognizer)
 
@@ -310,11 +317,26 @@ class AirlinePIIRedactor:
             return []
 
     def _get_custom_chinese_names(self, text):
-        surnames_pattern = '|'.join(self.chinese_surnames)
-        pattern = re.compile(f'({surnames_pattern})[\u4e00-\u9fa5]{{1,2}}')
+        if not hasattr(self, '_chinese_name_pattern'):
+            # Rebuild surname list to be absolutely sure
+            surnames = self.chinese_surnames
+            
+            # Explicitly add Traditional chars if missing
+            trad_additions = ['陳', '黃', '張', '劉', '吳', '鄭', '蔣', '鄧', '葉', '蘇', '盧', '羅', '賴', '謝', '鍾']
+            for s in trad_additions:
+                if s not in surnames:
+                    surnames.append(s)
+            
+            # Escape regex special chars just in case (none in Chinese usually but good practice)
+            # Join with OR
+            surnames_pattern = '|'.join(map(re.escape, sorted(surnames, key=len, reverse=True)))
+            
+            # Use broad range \u2e80-\u9fff to catch all CJK variations (Simp/Trad/Radicals)
+            self._chinese_name_pattern = re.compile(f'({surnames_pattern})[\u2e80-\u9fff]{{1,2}}')
+        
         results = []
-        for match in pattern.finditer(text):
-            results.append({
+        for match in self._chinese_name_pattern.finditer(text):
+             results.append({
                 'text': match.group(),
                 'start': match.start(),
                 'end': match.end(),
@@ -369,21 +391,46 @@ class AirlinePIIRedactor:
 
     def is_likely_dob(self, date_text):
         try:
-            clean_text = re.sub(r'\s+', ' ', date_text).strip()
-            # fuzzy=True allows "born on ..." parsing
-            dt = parser.parse(clean_text, fuzzy=True)
-            # Rough heuristic: DOB is in the past, but not too far past (1900)
-            # And definitely not future (flight dates)
-            # Using 2023 as a safe cutoff for "child born recently" vs "flight in 2025"
-            # Adjust as needed.
+            # Handle compact dates like 01011990
+            if re.fullmatch(r'\d{8}', date_text):
+                try:
+                    # Try MMDDYYYY first
+                    dt = datetime.strptime(date_text, "%m%d%Y")
+                except ValueError:
+                    try:
+                        # Try DDMMYYYY
+                        dt = datetime.strptime(date_text, "%d%m%Y")
+                    except ValueError:
+                        try:
+                            # Try YYYYMMDD
+                            dt = datetime.strptime(date_text, "%Y%m%d")
+                        except ValueError:
+                            return False
+            else:
+                clean_text = re.sub(r'\s+', ' ', date_text).strip()
+                dt = parser.parse(clean_text, fuzzy=True)
+
             current_year = datetime.now().year
-            if 1900 < dt.year <= current_year:
+            
+            # Simple heuristic first:
+            if dt.year > current_year:
+                return False # Future dates are flight dates
+            
+            # If date is within last 2 years, it's ambiguous.
+            # Assume Flight Date unless proven otherwise (infant DOBs are rare in this context without explicit "infant" tag)
+            if current_year - dt.year <= 2:
+                return False
+                
+            if 1900 < dt.year <= current_year - 2:
                 return True
             return False
         except:
             return False
 
     def redact(self, text):
+        # Pre-process: Handle brackets or odd formatting that might confuse NLP
+        # ... (Same as before)
+        
         # 1. Standard Presidio
         results = self.analyzer.analyze(text=text, language='en', score_threshold=0.4)
 
@@ -399,8 +446,15 @@ class AirlinePIIRedactor:
         # Filter English matches from HanLP to avoid conflict
         hanlp_entities = [e for e in hanlp_raw if not re.search(r'[a-zA-Z]', e['text'])]
         
+        # Combine HanLP and Custom Regex
         for entity in hanlp_entities + custom_raw:
-            chinese_results.append(RecognizerResult('PERSON', entity['start'], entity['end'], 0.8))
+            # Check if this Chinese entity overlaps with something Presidio found (rare but possible)
+            # Or if it's just a common word (False Positive Prevention)
+            # For now, trust the regex/HanLP but maybe add blacklist?
+            # Custom Regex returns type 'REGEX_NAME' or 'PERSON' from HanLP.
+            # Give high confidence to regex matches for now as they are specific to surname list.
+            # Score 0.9 to override Presidio's NRP (0.85) if they conflict (e.g. for "黃小明")
+            chinese_results.append(RecognizerResult('PERSON', entity['start'], entity['end'], 0.9))
 
         # 4. Romanized Names
         romanized_results = []
@@ -416,8 +470,25 @@ class AirlinePIIRedactor:
         # 6. Combine ALL results
         combined_results = results + phone_results + chinese_results + romanized_results + sticky_tickets
 
+        # DEBUG
+        # print(f"DEBUG: Combined results: {len(combined_results)}")
+        # for r in combined_results:
+        #     print(f"  - {r.entity_type}: {text[r.start:r.end]} (Score: {r.score})")
+
         # 7. Filter & Refine
         final_results = []
+        
+        # Helper to check overlaps
+        def is_overlap(new_res, existing_list):
+            for ex in existing_list:
+                if max(new_res.start, ex.start) < min(new_res.end, ex.end):
+                    return True
+            return False
+
+        # Sort by score/length to prefer better matches? 
+        # Actually Presidio Anonymizer handles overlaps (keeps highest score).
+        # But we do custom filtering logic that might need clean data.
+        
         for res in combined_results:
             entity_text = text[res.start:res.end].strip()
 
@@ -443,6 +514,16 @@ class AirlinePIIRedactor:
                     snippet = text[left:right].lower()
                     if any(k in snippet for k in context_keywords):
                          final_results.append(res)
+            
+            elif res.entity_type == 'PERSON':
+                # Filter out single common words that might be false positives from SurnameManager
+                # e.g. "May I" -> "May" might be detected if "May" is surname
+                if len(entity_text.split()) == 1 and entity_text.lower() in {'may', 'will', 'can', 'long', 'young', 'man', 'king', 'mark', 'rose', 'read', 'book'}:
+                    # Only keep if high score or strict context?
+                    # SurnameManager usually returns pairs, so single words come from HanLP or Presidio
+                    if res.score < 0.6: 
+                        continue
+                final_results.append(res)
 
             else:
                 final_results.append(res)
